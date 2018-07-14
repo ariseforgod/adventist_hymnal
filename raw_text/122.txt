@@ -1,7 +1,7 @@
 122 – Hark! the Herald Angels Sing
 
 
-1
+Verse 1
 Hark! the herald angels sing,
 “Glory to the new born King,
 peace on earth, and mercy mild,
@@ -13,7 +13,7 @@ with th’ angelic host proclaim,
 Hark! the herald angels sing,
 “Glory to the new born King!”
 
-2
+Verse 2
 Christ, by highest heaven adored;
 Christ, the everlasting Lord;
 late in time behold him come,
@@ -25,7 +25,7 @@ Jesus, our Emmanuel.
 Hark! the herald angels sing,
 “Glory to the new born King!”
 
-3
+Verse 3
 Hail the heaven-born Prince of Peace!
 Hail the Sun of Righteousness!
 Light and life to all he brings,
