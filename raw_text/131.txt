@@ -2,7 +2,7 @@
 Lo, How a Rose E'er Blooming
 
 
-Verse 1
+[Verse 1]
 Lo, how a rose e’re blooming
 From tenderstem hath sprung,
 Of Jesse’s lineage coming
@@ -11,7 +11,7 @@ It came, a floweret bright,
 Amid the cold of winter
 When half spent was the night.
 
-Verse 2
+[Verse 2]
 Isaiah ’twas foretold it,
 The Rose I have in mind,
 With Mary we beheld it,

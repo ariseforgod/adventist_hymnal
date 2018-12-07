@@ -2,7 +2,7 @@
 We Have Heard
 
 
-Verse 1
+[Verse 1]
 We have heard from the bright, the holy, land;
 We have heard, and our hearts are glad;
 For we were a lonely pilgrim band,
@@ -12,7 +12,7 @@ No longer are homeless ones;
 And we know that the goodly land is fair,
 Where life’s pure river runs.
 
-Verse 2
+[Verse 2]
 They say green fields are waving there,
 That never a blight shall know;
 And the deserts wild are blooming fair,
@@ -22,7 +22,7 @@ Their songs are blithe and sweet;
 And their warblings, gushing ever new,
 The angels’ harpings greet.
 
-Verse 3
+[Verse 3]
 We have heard of the palms, the robes, the crowns,
 And the silvery band in white;
 Of the city fair, with pearly gates,
@@ -32,7 +32,7 @@ With their harps of gold, how they sing;
 Of the mount with the fruitful tree of life,
 Of the leaves that healing bring.
 
-Verse 4
+[Verse 4]
 The King of that country, He is fair,
 He’s the joy and light of the place;
 In His beauty we shall behold Him there,

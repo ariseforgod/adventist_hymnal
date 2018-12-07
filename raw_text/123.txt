@@ -2,7 +2,7 @@
 As With Gladness Men of Old
 
 
-Verse 1
+[Verse 1]
 As with gladness men of old
 Did the guiding star behold,
 As with joy they hailed its light,
@@ -10,7 +10,7 @@ Leading onward, beaming bright,
 So, most gracious Lord, may we
 Evermore be led to Thee.
 
-Verse 2
+[Verse 2]
 As with joyful steps they sped
 To that lowly manger bed,
 There to bend the knee before
@@ -18,7 +18,7 @@ Him whom heav’n and earth adore,
 So may we with willing feet
 Ever seek Thy mercy seat.
 
-Verse 3
+[Verse 3]
 As they offered gifts most rare
 At that manger rude and bare,
 So may we with holy joy,
@@ -26,7 +26,7 @@ Pure, and free from sin’s alloy,
 All our costliest treasures bring,
 Christ, to Thee our heav’nly King.
 
-Verse 4
+[Verse 4]
 Holy Jesus, every day
 Keep us in the narrow way;
 And, when earthly things are past,

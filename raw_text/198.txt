@@ -2,7 +2,7 @@
 And Can It Be?
 
 
-Verse 1
+[Verse 1]
 And can it be that I should gain
 an interest in the Saviour’s blood!
 Died he for me? who caused his pain!
@@ -10,11 +10,11 @@ For me? who him to death pursued?
 Amazing love! How can it be
 that thou, my God, shouldst die for me?
 
-Chorus
+[Chorus]
 Amazing love! How can it be
 that thou, my God, shouldst die for me?
 
-Verse 2
+[Verse 2]
 He left his Father’s throne above
 so free, so infinite his grace!;
 emptied himself of all but love,
@@ -22,7 +22,7 @@ and bled for Adam’s helpless race.
 ‘Tis mercy all, immense and free,
 for O my God, it found out me!
 
-Verse 3
+[Verse 3]
 Long my imprisoned sprit lay,
 fast bound in sin and nature’s night;
 thine eye diffused a quickening ray;
@@ -30,7 +30,7 @@ I woke, the dungeon flamed with light;
 my chains fell off, my heart was free,
 I rose, went forth, and followed thee.
 
-Verse 4
+[Verse 4]
 No condemnation now I dread;
 Jesus, and all in him, is mine;
 alive in him, my living Head,

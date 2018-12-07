@@ -2,7 +2,7 @@
 I Sing the Mighty Power of God
 
 
-Verse 1
+[Verse 1]
 I sing the almighty power of God,
 that made the mountains rise,
 that spread the flowing seas abroad,
@@ -12,7 +12,7 @@ the sun to rule the day;
 the moon shines full at God’s command,
 and all the stars obey.
 
-Verse 2
+[Verse 2]
 I sing the goodness of the Lord,
 who filled the earth with food,
 who formed the creatures thru the Word,
@@ -22,7 +22,7 @@ where’er I turn my eye,
 if I survey the ground I tread,
 or gaze upon the sky!
 
-Verse 3
+[Verse 3]
 There’s not a plant or flower below,
 but makes thy glories known,
 and clouds arise, and tempests blow,

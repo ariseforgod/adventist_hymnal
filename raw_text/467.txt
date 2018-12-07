@@ -2,7 +2,7 @@
 Life Is Great! So Sing About It
 
 
-Verse 1
+[Verse 1]
 Life is great! So sing about it,
 As we can and as we should-
 Shop and buses, towns and people,
@@ -10,7 +10,7 @@ Village, farmland, field and wood,
 Life is great and life is given;
 Life is lovely, free and good.
 
-Verse 2
+[Verse 2]
 Life is great! What ever happens,
 Snow or sunshine, joy or pain,
 Hardship, grief or disillusion,
@@ -18,7 +18,7 @@ Suffering that I can’t explain
 Life is great if someone loves me,
 Holds my hand and calls my name.
 
-Verse 3
+[Verse 3]
 Love is great! The love of lovers,
 Whispered words and longing eyes;
 Love that gazes at the cradle
@@ -26,7 +26,7 @@ Where a child of loving lies;
 Love that lasts when youth has faded,
 Bends with age, but never dies.
 
-Verse 4
+[Verse 4]
 Love is giving and receiving
 Boy and girl, or friend with friend;
 Love is bearing and forgiving
@@ -34,7 +34,7 @@ All the hurts that hate can send;
 Love’s the greatest way of living,
 Hoping, trusting to the end.
 
-Verse 5
+[Verse 5]
 God is great! in Christ He loved us,
 As we should, but never can-
 Love that suffered, hoped and trusted

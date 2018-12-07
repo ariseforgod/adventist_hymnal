@@ -2,7 +2,7 @@
 Long Upon the Mountains
 
 
-Verse 1
+[Verse 1]
 Long upon the mountains weary,
 Have the scattered flocks been torn;
 Dark the dessert paths, and dreary;
@@ -12,7 +12,7 @@ Solemn in its warning voice;
 Union, faith, and love, abounding,
 Bid the little flock rejoice.
 
-Verse 2
+[Verse 2]
 Now the light of truth they’re seeking,
 In its onward track pursue;
 All the ten commandments keeping,
@@ -22,7 +22,7 @@ Precious to their taste so sweet;
 All their Master’s percepts heeding,
 Bowing humbly to His feet.
 
-Verse 3
+[Verse 3]
 In that light of light and beauty,
 In that golden city fair,
 Soon its pearly gates they’ll enter,
@@ -32,7 +32,7 @@ Free from sin, and death, and pain;
 Tear will never dim those mansions
 Where the souls immortal reign.
 
-Verse 4
+[Verse 4]
 Soon He comes! With clouds descending;
 All His saints, entombed arise;
 The redeemed, in anthems blending,

@@ -2,7 +2,7 @@
 Give of Your Best to the Master
 
 
-Verse 1
+[Verse 1]
 Give of your best to the master,
 Give of the strength of your youth;
 Throw your soul’s fresh, glowing ardor
@@ -12,13 +12,13 @@ Dauntless was He, young and brave;
 Give Him your loyal devotion,
 Give Him the best that you have.
 
-Chorus
+[Chorus]
 Give of your best to the master,
 Give of the strength of your youth;
 Clad in salvation’s full armor,
 Join in the battle for truth.
 
-Verse 2
+[Verse 2]
 Give of your best to the Master,
 Give Him first place in your heart;
 Give Him first place in your service,
@@ -28,7 +28,7 @@ God His beloved Son gave;
 Gratefully seeking to serve Him,
 Give Him the best that you have.
 
-Verse 3
+[Verse 3]
 Give of your best to the Master,
 Naught else is worthy His love;
 He gave Himself for your ransom,

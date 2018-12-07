@@ -2,7 +2,7 @@
 Soldiers of Christ, Arise
 
 
-Verse 1
+[Verse 1]
 Soldiers of Christ,arise,
 And put your armor on,
 Strong in the strength which God supplies
@@ -12,7 +12,7 @@ And in His mighty power,
 Who in the strength of Jesus trusts
 Is more than conqueror.
 
-Verse 2
+[Verse 2]
 Stand then in His great might,
 With all His strength endued,
 But take, to arm you for the fight,
@@ -22,7 +22,7 @@ And all your conflicts passed,
 Ye may o’ercome through Christ alone,
 And stand entire at last.
 
-Verse 3
+[Verse 3]
 From strength to strength go on,
 Wrestle and fight and pray,
 Tread all the powers of darkness down

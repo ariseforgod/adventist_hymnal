@@ -2,7 +2,7 @@
 I Vow to Thee, My Country
 
 
-Verse 1
+[Verse 1]
 I vow to thee, my country, all earthly things above,
 Entire and whole and perfect, the service of my love:
 The love that asks the reason, the love that stands the test,
@@ -10,7 +10,7 @@ That lays upon the altar the dearest and the best;
 The love that never falters, the love that pays the price,
 The love that makes undaunted the final sacrifice.
 
-Verse 2
+[Verse 2]
 And there’s another country, I’ve heard of long ago,
 Most dear to them that love her, most great to them that know;
 We may not count her armies, we may not see her King;

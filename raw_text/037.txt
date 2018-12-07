@@ -2,7 +2,7 @@
 O Sing, My Soul, Your Maker's Praise
 
 
-Verse 1
+[Verse 1]
 O sing my soul, your Maker’s praise
 In grateful hymns ascending;
 Whose steadfast love has crowned your days
@@ -11,7 +11,7 @@ I sought the Lord, He heard my cry;
 His holy angels hover nigh
 The tents of those who love Him.
 
-Verse 2
+[Verse 2]
 The Lord is good to those who seek
 His face in time of sorrow,
 Providing comfort to the weak
@@ -20,7 +20,7 @@ Though grief may tarry for a night,
 The morn shall break in joy and light
 With blessings from His presence.
 
-Verse 3
+[Verse 3]
 The Lord will turn His face in peace
 When troubled souls draw near Him;
 His loving kindness shall not cease

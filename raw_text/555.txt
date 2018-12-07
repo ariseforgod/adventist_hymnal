@@ -2,7 +2,7 @@
 Shepherd of Tender Youth
 
 
-Verse 1
+[Verse 1]
 Shepherd of tender you,
 Guiding in love and truth,
 Through devious way;
@@ -11,7 +11,7 @@ We come Thy name to sin,
 Hither our children bring
 To shout Thy praise.
 
-Verse 2
+[Verse 2]
 Thou are our holy Lord,
 Thee all subduing Word,
 Healer of strife;
@@ -20,7 +20,7 @@ That from sin’s deep disgrace
 Thou mightest save our race,
 And give us life.
 
-Verse 3
+[Verse 3]
 Thou are the great High Priest;
 Thou has prepared the feast
 Of heavenly love;
@@ -29,7 +29,7 @@ None call on Thee in vain;
 Help Thou does not disdain,
 Help from above.
 
-Verse 4
+[Verse 4]
 Ever be Thou our Guide,
 Our Shepherd and our pride,
 Our staff and song;

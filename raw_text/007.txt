@@ -2,7 +2,7 @@
 The Lord in Zion Reigneth
 
 
-Verse 1
+[Verse 1]
 The Lord in Zion reigneth,
 let all the world rejoice,
 And come before His throne of grace
@@ -12,7 +12,7 @@ and there His praise shall ring,
 To Him shall princes bend the knee
 and kings their glory bring.
 
-Verse 2
+[Verse 2]
 The Lord in Zion reigneth,
 and who so great as He?
 The depths of earth are in His hands;
@@ -22,7 +22,7 @@ and let His standard wave,
 Till distant isles beyond the deep
 shall own His power to save.
 
-Verse 3
+[Verse 3]
 The Lord in Zion reigneth,
 these hours to Him belong;
 O enter now His temple gates,

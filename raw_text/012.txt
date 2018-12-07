@@ -2,7 +2,7 @@
 Joyful, Joyful, We Adore Thee
 
 
-Verse 1
+[Verse 1]
 Joyful, joyful, we adore Thee,
 God of glory, Lord of love;
 Hearts unfold like flow’rs before Thee,
@@ -12,7 +12,7 @@ Drive the dark of doubt away;
 Giver of immortal gladness,
 Fill us with the light of day!
 
-Verse 2
+[Verse 2]
 All Thy works with joy surround Thee,
 Earth and heav’n reflect Thy rays,
 Stars and angels sing around Thee,
@@ -22,7 +22,7 @@ Bloss’ming meadow, flashing sea,
 Chanting bird and flowing fountain
 Call us to rejoice in Thee.
 
-Verse 3
+[Verse 3]
 Thou art giving and forgiving,
 Ever blessing, ever blest,
 Wellspring of the joy of living,

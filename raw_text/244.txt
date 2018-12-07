@@ -2,7 +2,7 @@
 My Song Shall Be of Jesus
 
 
-Verse 1
+[Verse 1]
 My song shall be of Jesus;
 His mercy crowns my days,
 He fills my cup with blessings,
@@ -12,7 +12,7 @@ The precious Lamb of God,
 Who gave Himself my ransom,
 And bought me with His blood.
 
-Verse 2
+[Verse 2]
 My song shall be of Jesus
 When, sitting at His feet,
 I call to mind His goodness
@@ -22,7 +22,7 @@ Whatever ill betide;
 I’ll sing the grace that saves me,
 And keeps me at His side.
 
-Verse 3
+[Verse 3]
 My song shall be of Jesus
 While pressing on my way
 To reach the blissful kingdom

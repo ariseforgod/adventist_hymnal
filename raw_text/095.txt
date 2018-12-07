@@ -2,7 +2,7 @@
 Spring Has Now Unwrapped the Flowers
 
 
-Verse 1
+[Verse 1]
 Spring has now unwrapped the flowers,
 Day is fast reviving,
 Life in all her growing powers
@@ -12,7 +12,7 @@ Winter time and frost time,
 Seedlings, working through the mould,
 Now make up for lost time.
 
-Verse 2
+[Verse 2]
 Herb and plant that winter long,
 Slumbered at their leisurek,
 Now be stirring, green and strong,
@@ -22,7 +22,7 @@ Gold the green enhacing;
 Flowers make glee among the hills,
 Set the meadows dancing.
 
-Verse 3
+[Verse 3]
 Through each wonder of fair days
 God Himself expresses;
 Beauty follows all His ways,

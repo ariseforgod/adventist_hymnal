@@ -2,7 +2,7 @@
 New Songs of Celebration Render
 
 
-Verse 1
+[Verse 1]
 New songs of celebration render
 To Him who has great wonders done.
 Love sits enthroned in ageless splendour:
@@ -12,7 +12,7 @@ Which all His friends with joy confess:
 He has revealed to every nation
 His everlasting righteousness.
 
-Verse 2
+[Verse 2]
 Joyfully, heartily resounding,
 Let every instrument and voice
 Peal out the praise of grace abounding
@@ -22,7 +22,7 @@ Such sounds as make the heavens ring;
 All things that live in earth and ocean,
 Make music for your mighty King.
 
-Verse 3
+[Verse 3]
 Rivers and seas and torrents roaring,
 Honor the Lord with wild acclaim;
 Mountains and stones look up adoring,

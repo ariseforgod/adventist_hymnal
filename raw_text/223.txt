@@ -2,7 +2,7 @@
 Crown Him With Many Crowns
 
 
-Verse 1
+[Verse 1]
 Crown him with many crowns,
 the Lamb upon his throne,
 Hark! how the heavenly anthem drowns
@@ -12,7 +12,7 @@ of him who died for thee,
 and hail him as thy matchless King
 through all eternity.
 
-Verse 2
+[Verse 2]
 Crown him the Lord of love!
 behold his hands and side,
 those wounds, yet visible above,
@@ -22,7 +22,7 @@ Can fully bear that sight,
 But downward bend his wondering eye
 At mysteries so great.
 
-Verse 3
+[Verse 3]
 Crown him the Lord of peace!
 whose power a sceptre sways
 from pole to pole, that wars may cease,
@@ -32,7 +32,7 @@ and round his pierced feet
 fair flowers of paradise extend
 their fragrance ever sweet.
 
-Verse 4
+[Verse 4]
 Crown him the Lord of years;
 The potentate of time,
 Creator of the rolling spheres,

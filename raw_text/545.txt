@@ -2,7 +2,7 @@
 Savior, Like a Shepherd
 
 
-Verse 1
+[Verse 1]
 Savior, like a shepherd lead us,
 much we need thy tenderest care;
 in thy pleasant pastures feed us,
@@ -12,7 +12,7 @@ Thou hast bought us, thine we are.
 Blessed Jesus, blessed Jesus!
 Thou hast bought us, thine we are.
 
-Verse 2
+[Verse 2]
 We are thine, thou dost befriend us,
 be the guardian of our way;
 keep thy flock, from sin defend us,
@@ -22,7 +22,7 @@ Hear, O hear us when we pray.
 Blessed Jesus, blessed Jesus!
 Hear, O hear us when we pray.
 
-Verse 3
+[Verse 3]
 Thou hast promised to receive us,
 poor and sinful though we be;
 thou hast mercy to relieve us,

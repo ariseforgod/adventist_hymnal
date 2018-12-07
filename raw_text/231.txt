@@ -2,7 +2,7 @@
 Blest Be the King
 
 
-Verse 1
+[Verse 1]
 Blest be the King whose coming
 Is in the name of God!
 For Him let doors be opened,
@@ -12,7 +12,7 @@ In power and pomp comes He;
 But clad as are the poorest,
 Such His humility.
 
-Verse 2
+[Verse 2]
 Blest be the King whose coming
 Is in the name of God!
 By those who truly listen
@@ -22,7 +22,7 @@ Who have not learned to heed
 The Christ who is the promise,
 Who has atonement made.
 
-Verse 3
+[Verse 3]
 Blest be the King whose coming
 Is in the name of God!
 He only to the humble
@@ -32,7 +32,7 @@ All things are in His hand,
 All ages and all peoples,
 ‘Till time itself shall end.
 
-Verse 4
+[Verse 4]
 Blest be the King whose coming
 Is in the name of God!
 He offers to the burdened

@@ -2,7 +2,7 @@
 God Be Merciful to Me
 
 
-Verse 1
+[Verse 1]
 God, be merciful to me,
 On Thy grace I rest my plea;
 Plenteous in compassion Thou,
@@ -12,7 +12,7 @@ Cleanse, O cleanse me from my sin,
 Wash me, make me pure within,
 Cleanse, O cleanse me from my sin.
 
-Verse 2
+[Verse 2]
 I am evil, born in sin;
 Thou desirest truth within.
 Thou alone my Savior art,
@@ -22,7 +22,7 @@ Wash me whiter than the snow,
 Make me pure, Thy grace bestow,
 Wash me whiter than the snow.
 
-Verse 3
+[Verse 3]
 Gracious God, my heart renew,
 Make my spirit right and true;
 Cast me not away from Thee,
@@ -32,7 +32,7 @@ Steadfast make my willing heart,
 Thy salvation’s joy impart,
 Steadfast make my willing heart.
 
-Verse 4
+[Verse 4]
 Sinners then shall learn from me
 And return, O God, to Thee;
 Savior, all my guilt remove,

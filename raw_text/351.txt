@@ -2,7 +2,7 @@
 Thy Hand, O God Has Guided
 
 
-Verse 1
+[Verse 1]
 Thy hand, O God, has guided
 Thy flock from age to age;
 The wondrous tale is written
@@ -12,7 +12,7 @@ And we their deeds record;
 And both of this bear witness,
 One church, one faith, one Lord.
 
-Verse 2
+[Verse 2]
 Thy heralds brought glad tidings
 To greatest as to least;
 They bade men rise and hasten
@@ -22,7 +22,7 @@ In every deed and word,
 To all alike proclaiming
 One church, one faith, one Lord.
 
-Verse 3
+[Verse 3]
 When shadows thick were falling,
 And all seemed sunk in night,
 Thou, Lord, did send Thy servants,
@@ -32,7 +32,7 @@ Thy plenteous grace was poured,
 And this was still their message:
 One church, one faith, one Lord.
 
-Verse 4
+[Verse 4]
 Thy mercy will not fail us,
 Nor leave Thy work undone;
 With Thy right hand to help us,

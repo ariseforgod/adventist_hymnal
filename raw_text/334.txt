@@ -2,7 +2,7 @@
 Come, Thou Fount of Every Blessing
 
 
-Verse 1
+[Verse 1]
 Come, thou Fount of every blessing,
 Tune my heart to sing thy grace;
 Streams of mercy, never ceasing,
@@ -12,7 +12,7 @@ May I still Thy goodness prove,
 While the hope of endless glory
 Fills my heart with joy and love.
 
-Verse 2
+[Verse 2]
 Here I raise mine Ebenezer;
 Hither by thy help I’ve come;
 And I hope, by thy good pleasure,
@@ -22,7 +22,7 @@ Wandering from the fold of God;
 He, to rescue me from danger,
 Interposed his precious blood.
 
-Verse 3
+[Verse 3]
 O, to grace how great a debtor
 Daily I’m constrained to be!
 Let thy goodness, like a fetter,

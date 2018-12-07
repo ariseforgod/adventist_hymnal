@@ -2,7 +2,7 @@
 It Came Upon the Midnight Clear
 
 
-Verse 1
+[Verse 1]
 It came upon the midnight clear,
 That glorious song of old,
 From angels bending near the earth,
@@ -12,7 +12,7 @@ From heavens all gracious King!”
 The world in solemn stillness lay
 To hear the angels sing.
 
-Verse 2
+[Verse 2]
 Still through the cloven skies they come,
 With peaceful wings unfurled;
 And still their heavenly music floats
@@ -22,7 +22,7 @@ They bend on hovering wing,
 And ever o’er its Babel sounds
 The blessed angels sing.
 
-Verse 3
+[Verse 3]
 O ye beneath life’s crushing load,
 Whose forms are bending low,
 Who toil along the climbing way

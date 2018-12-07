@@ -2,7 +2,7 @@
 How Far From Home
 
 
-Verse 1
+[Verse 1]
 How far from? I asked, as on
 I bent my steps-the watchman spake:
 “the long, dark night is almost gone,
@@ -12,7 +12,7 @@ With Hope’s bright star guiding ray,
 Till thou shalt reach the realms of light,
 In everlasting days.”
 
-Verse 2
+[Verse 2]
 I asked the warrior on the field;
 This was his soul-inspiring song:
 “With courage, bold, the sword I’ll wield,
@@ -22,7 +22,7 @@ The conflict, till thy work is done;
 For this we know, the prize is sure,
 When victory is won.”
 
-Verse 3
+[Verse 3]
 I asked again; earth, sea, and sun
 Seemed, with one voice, to make reply:
 “Time’s wasting sands are nearly run,
@@ -32,7 +32,7 @@ Portentous signs are thickening round,
 The whole creation, waiting, groans,
 To hear the trumpet sound.”
 
-Verse 4
+[Verse 4]
 Not far from home! O blessed thought!
 The traveler’s lonely heart to cheer;
 Which oft a healing balm has brought,

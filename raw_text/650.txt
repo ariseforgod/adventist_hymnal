@@ -2,7 +2,7 @@
 Our Father, by Whose Name
 
 
-Verse 1
+[Verse 1]
 Our Father,
 by whose name,
 All fatherhood is known,
@@ -12,7 +12,7 @@ guarding well,
 With constant love as sentinel,
 The homes in which Thy people dwell.
 
-Verse 2
+[Verse 2]
 O Christ,
 Thyself a childWithin an earthly home,
 With heart still undefiled,
@@ -21,7 +21,7 @@ Our children bless, in every place,
 That they may all behold Thy face,
 And knowing Thee may grow in grace.
 
-Verse 3
+[Verse 3]
 O Spirit,
 who dost bindOur hearts in unity,
 Who teaches us to findThe love from self set free,

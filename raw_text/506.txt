@@ -2,7 +2,7 @@
 A Mighty Fortress
 
 
-Verse 1
+[Verse 1]
 A mighty fortress is our God,
 a bulwark never failing;
 our helper he amid the flood
@@ -13,7 +13,7 @@ his craft and power are great,
 and armed with cruel hate,
 on earth is not his equal.
 
-Verse 2
+[Verse 2]
 Did we in our own strength confide,
 our striving would be losing,
 were not the right man on our side,
@@ -24,7 +24,7 @@ Lord Sabbaoth, his name,
 from age to age the same,
 and he must win the battle.
 
-Verse 3
+[Verse 3]
 And though this world, with devils filled,
 should threaten to undo us,
 we will not fear, for God hath willed
@@ -35,7 +35,7 @@ his rage we can endure,
 for lo, his doom is sure;
 one little word shall fell him.
 
-Verse 4
+[Verse 4]
 That word above all earthly powers,
 no thanks to them, abideth;
 the Spirit and the gifts are ours,

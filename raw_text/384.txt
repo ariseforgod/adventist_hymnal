@@ -2,7 +2,7 @@
 Safely Through Another Week
 
 
-Verse 1
+[Verse 1]
 Safely through another week
 God has brought us on our way;
 Let us now a blessing seek,
@@ -12,7 +12,7 @@ Emblem of eternal rest:
 Day of all the week the best,
 Emblem of eternal rest.
 
-Verse 2
+[Verse 2]
 While we seek supplies of grace,
 Thro’ the dear Redeemer’s name,
 Show Thy reconciling face;
@@ -22,7 +22,7 @@ May we rest this day in Thee:
 From our worldly cares set free,
 May we rest this day in Thee.
 
-Verse 3
+[Verse 3]
 When the more shall bid us rise,
 May we feel Thy presence near;
 May Thy glory meet our eyes,
@@ -32,7 +32,7 @@ Of our everlasting feast:
 Here afford us, Lord, a taste
 Of our everlasting feast.
 
-Verse 4
+[Verse 4]
 May the gospel’s joyful sound
 Conquer sinners, comfort saints;
 Make the fruits of grace abound,

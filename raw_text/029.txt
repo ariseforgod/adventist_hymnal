@@ -2,7 +2,7 @@
 Sing Praise to God
 
 
-Verse 1
+[Verse 1]
 Sing praise to God who reigns above,
 the God of all creation,
 the God of power, the God of love,
@@ -11,7 +11,7 @@ With healing balm my soul He fills,
 and every faithless murmur stills;
 To God all praise and glory!
 
-Verse 2
+[Verse 2]
 What God’s almighty power hath made
 His gracious mercy keepeth;
 By morning glow or evening shade,
@@ -20,7 +20,7 @@ Within the kingdom of his might,
 Lo! all is just, and all is right:
 To God all praise and glory!
 
-Verse 3
+[Verse 3]
 The Lord is never far away,
 throughout all grief distressing,
 an ever present help and stay,
@@ -29,7 +29,7 @@ As with a mother’s tender hand,
 He leads His own, His chosen band:
 To God all praise and glory!
 
-Verse 4
+[Verse 4]
 Then all my gladsome way along,
 I sing aloud thy praises,
 that men may hear the grateful song

@@ -2,7 +2,7 @@
 Open My Eyes That I May See
 
 
-Verse 1
+[Verse 1]
 Open my eyes, that I may see
 Glimpses of truth Thou hast for me;
 Place in my hands the wonderful key
@@ -12,7 +12,7 @@ Ready, my God, Thy will to see;
 Open my eyes,
 illumine me, Spirit Divine!
 
-Verse 2
+[Verse 2]
 Open my ears that I may hear
 Voices of truth Thou sendest clear;
 and while the wavenotes fall on my ear,
@@ -21,7 +21,7 @@ Silently now I wait for Thee,
 Ready, my God, Thy will to see;
 Open my ears, illumine me, Spirit Divine!
 
-Verse 3
+[Verse 3]
 Open my mouth, and let me bear
 Gladly the warm truth everywhere;
 Open my heart, and let me prepare

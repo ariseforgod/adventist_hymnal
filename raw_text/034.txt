@@ -2,7 +2,7 @@
 Wake the Song
 
 
-Verse 1
+[Verse 1]
 Wake the song of joy and gladness;
 Hither bring your noblest lays;
 Banish every thought of sadness,
@@ -12,13 +12,13 @@ Once again with friends to meet,
 And whose loving voice has taught us
 Of the way to Jesus’ feet.
 
-Chorus
+[Chorus]
 Wake the song, wake the song,
 The song of joy and gladness,
 Wake the song, wake the song,
 The song of Jubilee.
 
-Verse 2
+[Verse 2]
 Joyfully with songs and banners,
 We will greet the festal day;
 Shout aloud our glad hosannas,
@@ -28,7 +28,7 @@ while our thoughts we raise above,
 Telling still the old, old, story,
 Precious theme- redeeming love!
 
-Verse 3
+[Verse 3]
 Thanks to Thee, O holy Father,
 For the mercies of the year;
 May each heart, as here we gather,

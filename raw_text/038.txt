@@ -2,7 +2,7 @@
 Arise, My Soul, Arise!
 
 
-Verse 1
+[Verse 1]
 Arise, my soul, arise!
 Stretch forth to things eternal
 And hasten to the feet of your Redeemer God.
@@ -17,7 +17,7 @@ Rejoice, my soul, rejoice,
 To heav’n lift up your voice:
 Alleluia, alleluia, alleluia!
 
-Verse 2
+[Verse 2]
 Now hear the harps of heav’n!
 Oh, hear the song victorious,
 The never-ending anthem sounding

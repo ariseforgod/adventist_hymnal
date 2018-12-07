@@ -2,7 +2,7 @@
 Thou Didst Leave Thy Throne
 
 
-Verse 1
+[Verse 1]
 Thou didst leave Thy throne
 And Thy kingly crown
 When Thou camest to earth for me;
@@ -12,7 +12,7 @@ For Thy holy nativity.
 O come to my heart, Lord Jesus,
 There is room in my heart for Thee.
 
-Verse 2
+[Verse 2]
 Heaven’s arches rang
 When the angels sang
 Proclaiming Thy royal degree;
@@ -22,7 +22,7 @@ And in greatest humility.
 O come to my heart, Lord Jesus,
 There is room in my heart for Thee.
 
-Verse 3
+[Verse 3]
 The foxes found rest,
 And the birds their nest
 In the shade of the forest tree;
@@ -32,7 +32,7 @@ In the deserts of Galilee.
 O come to my heart, Lord Jesus,
 There is room in my heart for Thee.
 
-Verse 4
+[Verse 4]
 Thou camest, O Lord,
 With the living word
 That should set Thy people free;
@@ -42,7 +42,7 @@ They bore Thee to Calvary.
 O come to my heart, Lord Jesus,
 There is room in my heart for Thee.
 
-Verse 5
+[Verse 5]
 When the heavens shall ring,
 And the angels sing,
 At Thy coming to victory,

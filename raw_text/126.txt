@@ -2,7 +2,7 @@
 In the Bleak Midwinter
 
 
-Verse 1
+[Verse 1]
 In the bleak midwinter
 Frosty wind made moan;
 Earth stood hard as iron,
@@ -12,7 +12,7 @@ Snow on snow,
 In the bleak midwinter,
 Long ago.
 
-Verse 2
+[Verse 2]
 Angels and archangels
 May have gathered there,
 Cherubim and seraphim
@@ -22,7 +22,7 @@ In her maiden bliss,
 Worshipped the beloved
 With a kiss.
 
-Verse 3
+[Verse 3]
 What can I give Him,
 Poor as I am?
 If I were a shepherd

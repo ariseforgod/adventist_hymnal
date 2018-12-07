@@ -2,7 +2,7 @@
 O Brother, Be Faithful
 
 
-Verse 1
+[Verse 1]
 O brother be faithful! soon Jesus will come,
 For whom we have waited so long;
 O, soon we shall enter our glorious home,
@@ -12,7 +12,7 @@ Unfaithful to Him who had shown
 Such deep, such unbounded and infinite love
 Who died to redeem us His own.
 
-Verse 2
+[Verse 2]
 O brother be faithful! the city of gold,
 Prepared for the good and the blest,
 Is waiting its portals of pearl to unfold,
@@ -22,7 +22,7 @@ In weariness here, and forlorn,
 Time’s dark night of sorrow is wearing away,
 We haste to the glorious morn.
 
-Verse 3
+[Verse 3]
 O brother be faithful! He soon will descend,
 Creation’s omnipotent King,
 While legions of angels His chariot attend,
@@ -32,7 +32,7 @@ They Savior pronounce the glad word,
 Well done, faithful servant, they title is clear,
 To enter the joy of thy Lord.
 
-Verse 4
+[Verse 4]
 O brother be faithful! eternity’s years
 Shall tell for thy faithfulness now,
 When bright smiles of gladness shall scatter thy tears,

@@ -2,7 +2,7 @@
 Hark! Ten Thousand Harps and Voices
 
 
-Verse 1
+[Verse 1]
 Hark! ten thousand harps and voices
 Sound the note of praise above;
 Jesuse reigns, and heaven rejoices,
@@ -12,7 +12,7 @@ Jesus rules the world alone.
 Alleluia! Alleluia!
 Alleluia! Amen.
 
-Verse 2
+[Verse 2]
 King of glory, reign forever,
 Thine an everlasting crown;
 Nothing from Thy love shall sever
@@ -22,7 +22,7 @@ Destined to behold Thy face.
 Alleluia! Alleluia!
 Alleluia! Amen.
 
-Verse 3
+[Verse 3]
 Savior, hasten Thine appearing;
 Bring, O bring the glorious day,
 When, the awful summons hearing,

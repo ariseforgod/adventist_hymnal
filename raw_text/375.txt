@@ -2,7 +2,7 @@
 Work, for the Night Is Coming
 
 
-Verse 1
+[Verse 1]
 Work for the night is coming,
 Work through the morning hours;
 Work while the dew is sparkling;
@@ -12,7 +12,7 @@ Work in the glowing sun;
 Work for the night is coming,
 When man’s work is done.
 
-Verse 2
+[Verse 2]
 Work for the night is coming,
 Work thro’ the sunny noon;
 Fill brightest hours with labor,
@@ -22,7 +22,7 @@ Something to keep in store;
 Work for the night is coming,
 When man works no more.
 
-Verse 3
+[Verse 3]
 Work for the night is coming,
 Under the sunset skies;
 While their bright tints are glowing,

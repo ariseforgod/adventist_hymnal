@@ -2,7 +2,7 @@
 Rejoice, the Lord Is King
 
 
-Verse 1
+[Verse 1]
 Rejoice, the Lord is King!
 Your Lord and King adore!
 Rejoice, give thanks,
@@ -12,7 +12,7 @@ Lift up your heart,
 lift up your voice!
 Rejoice, again I say, rejoice!
 
-Verse 2
+[Verse 2]
 Jesus, the Saviour, reigns,
 The God of truth and love;
 When He had purged our stains,
@@ -22,7 +22,7 @@ Lift up your heart,
 lift up your voice!
 Rejoice, again I say, rejoice!
 
-Verse 3
+[Verse 3]
 His kingdom cannot fail,
 He rules o’er earth and heaven
 The keys of death and grave
@@ -32,7 +32,7 @@ Lift up your heart,
 lift up your voice!
 Rejoice, again I say, rejoice!
 
-Verse 4
+[Verse 4]
 Rejoice in glorious hope!
 Our Lord the judge shall come,
 And take His servants up

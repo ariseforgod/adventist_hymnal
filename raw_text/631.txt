@@ -2,7 +2,7 @@
 When on Life a Darkness Falls
 
 
-Verse 1
+[Verse 1]
 When on life a darkness falls,
 When the mist flows chilling,
 Paths and sign posts lost in doubt,
@@ -12,7 +12,7 @@ Though we feel forsaken;
 Keep us through the aching night
 Till new dawns awaken.
 
-Verse 2
+[Verse 2]
 When the dreams and vows of youth
 Painfully accuse us,
 Stab our conscience, steal our worth,
@@ -22,7 +22,7 @@ Daily resurrection,
 Strong companion at our side
 For each new direction.
 
-Verse 3
+[Verse 3]
 Come and meet Him, Friend and Lord,
 Thro’ the gospel story:
 Open door to life and peace,

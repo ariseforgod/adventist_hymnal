@@ -2,7 +2,7 @@
 My Lord and I
 
 
-Verse 1
+[Verse 1]
 I have a Friend so precious,
 So very dear to me,
 He loves me with such tender love,
@@ -12,7 +12,7 @@ I love to feel Him nigh,
 And so we dwell together,
 My Lord and I.
 
-Verse 2
+[Verse 2]
 Sometimes I’m faint and weary,
 He knows that I am weak,
 And as He bids me lean on Him,
@@ -22,7 +22,7 @@ Beneath a sunny sky,
 And so we walk together,
 My Lord and I.
 
-Verse 3
+[Verse 3]
 I tell Him all my sorrows,
 I tell Him all my joys,
 I tell Him all that pleases me,
@@ -32,7 +32,7 @@ He tells me how to try,
 And so we talk together,
 My Lord and I.
 
-Verse 4
+[Verse 4]
 He knows that I am longing
 Some weary soul to win,
 And so He bids me go and speak

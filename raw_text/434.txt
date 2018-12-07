@@ -2,7 +2,7 @@
 We Speak of the Realms
 
 
-Verse 1
+[Verse 1]
 We speak of the realms of the blest,
 That country so bright and so fair,
 And oft are its glories confessed-
@@ -12,7 +12,7 @@ Its walls decked with jewels so rare,
 Its wonders and pleasures untold-
 But what must it be to be there!
 
-Verse 2
+[Verse 2]
 We speak of its freedom of sin,
 From sorrow, temptation and care,
 From trials without and within—
@@ -22,7 +22,7 @@ Of the robes which glorified wear,
 Of the church of the First Born above-
 But what must it be to be there!
 
-Verse 3
+[Verse 3]
 Our mourning is all at an end,
 When, raised by the life-giving word,
 We see the new city descend,
@@ -32,7 +32,7 @@ No sorrow can breathe in the air;
 No gloom of affliction or sin,
 No shadow of evil, is there.
 
-Verse 4
+[Verse 4]
 Do Thou, midst temptation and woe,
 For heaven my spirit prepare;
 And shortly I also so shall know

@@ -2,7 +2,7 @@
 Infant Holy, Infant Lowly
 
 
-Verse 1
+[Verse 1]
 Infant holy, infant lowly,
 For His bed a cattle stall;
 Oxen lowing, little knowing
@@ -12,7 +12,7 @@ Noels ringing, tidings bringing,
 Christ the babe is Lord of all,
 Christ the babe is Lord of all.
 
-Verse 2
+[Verse 2]
 Flocks were sleeping, shepherds keeping
 Vigil till the morning new;
 Saw the glory, heard the story,

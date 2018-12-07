@@ -2,7 +2,7 @@
 The Church Has One Foundation
 
 
-Verse 1
+[Verse 1]
 The church’s one foundation
 is Jesus Christ her Lord;
 she is his new creation
@@ -12,7 +12,7 @@ to be his holy bride;
 with his own blood he bought her,
 and for her life he died.
 
-Verse 2
+[Verse 2]
 Elect from every nation,
 yet one o’er all the earth;
 her charter of salvation,
@@ -22,7 +22,7 @@ partakes one holy food,
 and to one hope she presses,
 with every grace endued.
 
-Verse 3
+[Verse 3]
 Though with a scornful wonder
 we see her sore oppressed,
 by schisms rent asunder,
@@ -32,7 +32,7 @@ their cry goes up, “How long?”
 And soon the night of weeping
 shall be the morn of song.
 
-Verse 4
+[Verse 4]
 ‘Mid toil and tribulation,
 and tumult of her war,
 she waits the consummation

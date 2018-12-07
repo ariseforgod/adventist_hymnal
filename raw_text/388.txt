@@ -2,7 +2,7 @@
 Don't Forget the Sabbath
 
 
-Verse 1
+[Verse 1]
 Don’t forget the Sabbath,
 The Lord our God hath blest,
 Of all the week the brightest,
@@ -12,13 +12,13 @@ It tells of joy divine,
 Its beams of light descending,
 With heavenly beauty shine.
 
-Chorus
+[Chorus]
 Welcome, welcome, ever welcome,
 Blessed Sabbath day,
 Welcome, welcome, ever welcome,
 Blessed Sabbath day.
 
-Verse 2
+[Verse 2]
 Keep the Sabbath holy,
 And worship Him today,
 Who said to His disciples,
@@ -28,7 +28,7 @@ Our Savior here below,
 He’ll give us of the fountain
 Whose streams eternal flow.
 
-Verse 3
+[Verse 3]
 Day of sacred pleasure!
 Its golden hours we’ll spend
 In thankful hymns to Jesus,

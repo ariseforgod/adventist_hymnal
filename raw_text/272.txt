@@ -2,7 +2,7 @@
 Give Me the Bible
 
 
-Verse 1
+[Verse 1]
 Give me the Bible,
 star of gladness gleaming,
 To cheer the wanderer
@@ -12,7 +12,7 @@ peaceful radiance beaming
 Since Jesus came
 to seek and save the lost.
 
-Chorus
+[Chorus]
 Give me the Bible–
 holy message shining,
 Thy light shall guide me
@@ -22,7 +22,7 @@ law and love combining,
 ‘Til night shall vanish
 in eternal day.
 
-Verse 2
+[Verse 2]
 Give me the Bible
 when my heart is broken,
 When sin and grief have
@@ -32,7 +32,7 @@ words by Jesus spoken,
 Hold up faith’s lamp
 to show my Savior near.
 
-Verse 3
+[Verse 3]
 Give me the Bible,
 all my steps enlighten,
 Teach me the danger

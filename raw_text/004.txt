@@ -2,7 +2,7 @@
 Praise, My Soul, the King of Heaven
 
 
-Verse 1
+[Verse 1]
 Praise, my soul, the King of heaven;
 To his feet thy tribute bring;
 Ransomed, healed, restored, forgiven,
@@ -10,7 +10,7 @@ Who like thee His praise should sing?
 Praise Him, praise Him, alleluia!
 Praise the everlasting King.
 
-Verse 2
+[Verse 2]
 Praise him for his grace and favour
 To our fathers in distress;
 Praise him still the same forever,
@@ -18,7 +18,7 @@ Slow to chide and swift to bless:
 Praise Him, praise Him, alleluia!
 Glorious in His faithfulness.
 
-Verse 3
+[Verse 3]
 Tenderly He shields and spares us;
 Well our feeble frame he knows;
 In his hands He gently bears us,
@@ -26,7 +26,7 @@ Rescues us from all our foes.
 Praise Him, praise Him, alleluia!
 Widely yet his mercy flows.
 
-Verse 4
+[Verse 4]
 Angels, help us to adore him;
 Ye behold him face to face;
 Sun and moon, bow down before him,

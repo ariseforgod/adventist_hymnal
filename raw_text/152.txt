@@ -2,7 +2,7 @@
 Tell Me the Story of Jesus
 
 
-Verse 1
+[Verse 1]
 Tell me the story of Jesus,
 Write on my heart every word.
 Tell me the story most precious,
@@ -12,13 +12,13 @@ Sang as they welcomed His birth.
 “Glory to God in the highest!
 Peace and good tidings to earth.”
 
-Chorus
+[Chorus]
 Tell me the story of Jesus,
 Write on my heart every word.
 Tell me the story most precious,
 Sweetest that ever was heard.
 
-Verse 2
+[Verse 2]
 Fasting alone in the desert,
 Tell of the days that are past.
 How for our sins He was tempted,
@@ -28,7 +28,7 @@ Tell of the sorrow He bore.
 He was despised and afflicted,
 Homeless, rejected and poor.
 
-Verse 3
+[Verse 3]
 Tell of the cross where they nailed Him,
 Writhing in anguish and pain.
 Tell of the grave where they laid Him,

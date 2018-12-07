@@ -2,7 +2,7 @@
 Lo! He Comes
 
 
-Verse 1
+[Verse 1]
 Lo! He comes, with clouds descending,
 Once for favored sinners slain;
 Countless angels, Him attending,
@@ -10,7 +10,7 @@ Swell the triumph of His train:
 Hallelujah! Hallelujah!
 Jesus comes, and comes to reign.
 
-Verse 2
+[Verse 2]
 Every eye shall now behold Him
 Robed in dreadful majesty!
 Those who set at nought and sold Him,
@@ -18,7 +18,7 @@ Pierced, and nailed Him to the tree,
 Deeply wailing, Deeply wailing,
 Shall the true Mesiah see!
 
-Verse 3
+[Verse 3]
 When the solemn trump has sounded,
 Heaven and earth shall flee away;
 All who hate Him, must, confounded,
@@ -26,7 +26,7 @@ Hear the summons of that day-
 “Come to judgment! Come to judgment!
 Come to judgment! Come away!”
 
-Verse 4
+[Verse 4]
 Yea, amen! let all adore Thee,
 High on Thy eternal throne!
 Savior, take the power and glory,

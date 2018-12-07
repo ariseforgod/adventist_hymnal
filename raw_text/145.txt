@@ -2,7 +2,7 @@
 Songs of Thankfulness and Praise
 
 
-Verse 1
+[Verse 1]
 Songs of thankfulness and praise,
 Jesus, Lord, to You we raise,
 Manifested by the star
@@ -12,7 +12,7 @@ In Your birth at Bethlehem;
 Anthems be to You addressed,
 God in man made manifest.
 
-Verse 2
+[Verse 2]
 Manifest at Jordan’s stream,
 Prophet, Priest, and King supreme;
 And at Cana, wedding guest,
@@ -22,7 +22,7 @@ Changing water into wine;
 Anthems be to You addressed,
 God in man made manifest.
 
-Verse 3
+[Verse 3]
 Manifest in making whole
 Palsied limbs and fainting soul;
 Manifest in valiant fight,
@@ -32,7 +32,7 @@ Ever bringing good from ill;
 Anthems be to You addressed,
 God in man made manifest.
 
-Verse 4
+[Verse 4]
 Grant us grace to see You, Lord,
 Mirrored in Your holy Word;
 May we imitate Your way,

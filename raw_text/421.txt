@@ -2,7 +2,7 @@
 For All the Saints
 
 
-Verse 1
+[Verse 1]
 For all the saints
 who from their labors rest,
 Who thee by faith
@@ -12,7 +12,7 @@ be forever blest.
 Alleluia!
 Alleluia!
 
-Verse 2
+[Verse 2]
 Thou wast their Rock,
 their Fortress and their Might;
 Thou, Lord, their captain
@@ -22,7 +22,7 @@ their one true light.
 Alleluia!
 Alleluia!
 
-Verse 3
+[Verse 3]
 O may Thy soldiers,
 faithful, true, and bold,
 Fight as the saints
@@ -32,7 +32,7 @@ the victor’s crown of gold.
 Alleluia!
 Alleluia!
 
-Verse 4
+[Verse 4]
 And when the strife is fierce,
 the warfare long,
 Steals on the ear
@@ -42,7 +42,7 @@ and arms are strong.
 Alleluia!
 Alleluia!
 
-Verse 5
+[Verse 5]
 From earth’s wide bounds,
 from ocean’s farthest coast,
 Thro’ gates of pearl

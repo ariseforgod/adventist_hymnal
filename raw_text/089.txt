@@ -2,7 +2,7 @@
 Let All on Earth Their Voices Raise
 
 
-Verse 1
+[Verse 1]
 Let all on earth their voices raise,
 To sing the great Jehovah’s praise,
 And bless His holy name:
@@ -10,7 +10,7 @@ His glory let the people know,
 His wonders to the nations show,
 His saving grace proclaim.
 
-Verse 2
+[Verse 2]
 He framed the globe; He built the sky;
 He made the shining worlds on high,
 And reigns in glory there:
@@ -18,7 +18,7 @@ His beams are majesty and light;
 His beauties, how divinely bright!
 His dwelling place, how fair!
 
-Verse 3
+[Verse 3]
 Come, the great day, the glorious hour,
 When earth shall feel His saving power,
 All nations fear His name;

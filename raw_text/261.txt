@@ -2,7 +2,7 @@
 The Spirit of the Lord Revealed
 
 
-Verse 1
+[Verse 1]
 The Spirit of the Lord revealed
 His will to saints of old;
 Their heart and mind lips unsealed
@@ -12,7 +12,7 @@ They hailed the dawning Word,
 And in the coming of the light
 Proclaimed the coming Lord.
 
-Verse 2
+[Verse 2]
 The prophets passed; at length there came
 To sojourn and abide,
 The Word incarnate, to whose name
@@ -22,7 +22,7 @@ Himself, the Light of light,
 As man with man, revealed at last
 The Father to our sight.
 
-Verse 3
+[Verse 3]
 Eternal Spirit, who dost speak
 To mind and conscience still,
 That we in this our day, may seek

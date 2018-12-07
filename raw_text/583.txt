@@ -2,7 +2,7 @@
 You That Know the Lord
 
 
-Verse 1
+[Verse 1]
 You that know the Lord is gracious,
 You for whom a cornerstone
 Stands, of God elect and precious,
@@ -12,7 +12,7 @@ You a living temple raise.
 Towers that may tell forth salvation,
 Walls that may reech-o praise.
 
-Verse 2
+[Verse 2]
 Living stones by God appointed
 Each to his allotted place,
 Kings and priests, by God anointed,
@@ -22,7 +22,7 @@ Tell the tidings of your birth,
 Tidings of a new creation
 To an old and weary earth.
 
-Verse 3
+[Verse 3]
 Tell the praise of Him who called you
 Out of darkness into light,
 Broke the fetters that enthralled you,

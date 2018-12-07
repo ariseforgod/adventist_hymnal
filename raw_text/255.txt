@@ -2,7 +2,7 @@
 I Cannot Tell Why
 
 
-Verse 1
+[Verse 1]
 I cannot tell why He whom angels worship
 Should set His love upon the souls of men,
 Or why as Shepherd He should seek the wanderers,
@@ -13,7 +13,7 @@ When Bethlehem’s manger was His only home,
 And that He lived at Nazareth and laboured;
 And so the Saviour, Saviour of the world, has come.
 
-Verse 2
+[Verse 2]
 I cannot tell how silently He suffered
 As with His peace He graced this place of tears,
 Nor how His heart upon the cross was broken,
@@ -23,7 +23,7 @@ And stays our sin and calms our lurking fear,
 And lifts the burden from the heavy laden;
 For still the Saviour, Saviour of the world, is here.
 
-Verse 3
+[Verse 3]
 I cannot tell how He will win the nations,
 How He will claim His earthly heritage,
 How satisfy the needs and aspirations
@@ -33,7 +33,7 @@ And He shall reap the harvest He has sown,
 And some glad day His sun will shine in splendour
 When He the Saviour, Saviour, of the world, is known.
 
-Verse 4
+[Verse 4]
 I cannot tell how all lands shall worship,
 When at His biding every storm is stilled,
 Or who can say how great the jubilation

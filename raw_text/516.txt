@@ -2,7 +2,7 @@
 All the Way
 
 
-Verse 1
+[Verse 1]
 All the way my Savior leads me;
 What have I to ask beside?
 Can I doubt His tender mercy,
@@ -14,7 +14,7 @@ Jesus doeth all things well;
 For I know whate’er befall me,
 Jesus doeth all things well.
 
-Verse 2
+[Verse 2]
 All the way my Savior leads me;
 Cheers each winding path I tread;
 Gives me grace for every trial,
@@ -26,7 +26,7 @@ Lo, a spring of joy I see;
 Gushing from the Rock before me,
 Lo, a spring of joy I see.
 
-Verse 3
+[Verse 3]
 All the way my Savior leads me;
 O the fullness of His love!
 Perfect rest to me is promised

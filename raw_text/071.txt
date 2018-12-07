@@ -2,7 +2,7 @@
 Come Thou Almighty King
 
 
-Verse 1
+[Verse 1]
 Come, Thou almighty King,
 Help us Thy name to sing,
 Help us to praise!
@@ -11,7 +11,7 @@ O’er all victorious,
 Come, and reign over us,
 Ancient of Days!
 
-Verse 2
+[Verse 2]
 Come, Thou incarnate Word,
 Gird on Thy mighty sword,
 Our prayer attend;
@@ -20,7 +20,7 @@ And give Thy Word success;
 Spirit of holiness,
 On us descend!
 
-Verse 3
+[Verse 3]
 Come, holy Comforter,
 Thy sacred witness bear,
 In this glad hour:
@@ -29,7 +29,7 @@ Now rule in every heart,
 And ne’er from us depart,
 Spirit of power!
 
-Verse 4
+[Verse 4]
 To Thee, great One in Three,
 Eternal praises be,
 Hence, evermore:

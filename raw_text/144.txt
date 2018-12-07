@@ -2,7 +2,7 @@
 O Sing a Song of Bethlehem
 
 
-Verse 1
+[Verse 1]
 O sing a song of Bethlehem,
 Of shepherds watching there,
 And of the news that came to them
@@ -12,7 +12,7 @@ Fills all the world today;
 Of Jesus’birth and peace on earth
 The angels sing alway.
 
-Verse 2
+[Verse 2]
 O sing a song of Nazareth,
 Of sunny days of joy,
 O sing of fragrant flowers breath,
@@ -22,7 +22,7 @@ In every heart may grow;
 Now spreads the fame of His dear name
 On all the winds that blow.
 
-Verse 3
+[Verse 3]
 O sing a song of Calvary,
 Its glory and dismay;
 Of Him who hung upon the tree,

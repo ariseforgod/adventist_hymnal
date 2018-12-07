@@ -2,7 +2,7 @@
 On Our Way Rejoicing
 
 
-Verse 1
+[Verse 1]
 On our way rejoicing
 Gladly let us go;
 Conquer’d hath our Leader,
@@ -12,13 +12,13 @@ Christ within, our joy;
 Who, if we be faithful,
 Can our hope destroy?
 
-Chorus
+[Chorus]
 On our way rejoicing
 As we forward move,
 Hearken to our praises,
 O blest God of love!
 
-Verse 2
+[Verse 2]
 Unto God the Father
 Joyful songs we sing,
 Unto God the Savior

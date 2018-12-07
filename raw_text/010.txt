@@ -2,7 +2,7 @@
 Come, Christians, Join to Sing
 
 
-Verse 1
+[Verse 1]
 Come, Christians, join to sing,
 Alleluia! Amen!
 Loud praise to Christ our King;
@@ -12,7 +12,7 @@ Before His throne rejoice;
 Praise is His gracious choice:
 Alleluia! Amen!
 
-Verse 2
+[Verse 2]
 Come, lift your hearts on high;
 Alleluia! Amen!
 Let praises fill the sky;
@@ -22,7 +22,7 @@ To us He’ll condescend;
 His love shall never end:
 Alleluia! Amen!
 
-Verse 3
+[Verse 3]
 Praise yet our Christ again;
 Alleluia! Amen!
 Life shall not end the strain;

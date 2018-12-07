@@ -2,13 +2,13 @@
 Over Yonder
 
 
-Verse 1
+[Verse 1]
 Come let us sing of homeland,
 Down by the crystal sea;
 Wonderful land where Jesus
 Buildeth a mansion for me.
 
-Chorus
+[Chorus]
 Over yonder, down by the crystal sea,
 down              by the crystal sea,
 Over yonder, there’s where I long to be,
@@ -18,13 +18,13 @@ In the homeland bright and fair,
 Over, over there.
 Over there.
 
-Verse 2
+[Verse 2]
 Water of life there floweth,
 Fruit in abundant store;
 Citizens of that country
 Hunger and thirst never more.
 
-Verse 3
+[Verse 3]
 Come go with me to homeland,
 Jesus invites you there;
 Help spread the invitation,

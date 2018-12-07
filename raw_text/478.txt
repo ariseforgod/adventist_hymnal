@@ -2,7 +2,7 @@
 Sweet Hour of Prayer
 
 
-Verse 1
+[Verse 1]
 Sweet hour of prayer! sweet hour of prayer!
 that calls me from a world of care,
 and bids me at my Father’s throne
@@ -12,7 +12,7 @@ my soul has often found relief,
 and oft escaped the tempter’s snare
 by thy return, sweet hour of prayer!
 
-Verse 2
+[Verse 2]
 Sweet hour of prayer! sweet hour of prayer!
 thy wings shall my petition bear
 to him whose truth and faithfulness
@@ -22,7 +22,7 @@ believe his word, and trust his grace,
 I’ll cast on him my every care,
 and wait for thee, sweet hour of prayer!
 
-Verse 3
+[Verse 3]
 Sweet hour of prayer! sweet hour of prayer!
 May I thy consolation share
 Till from Mount Pisgah’s lofty height
