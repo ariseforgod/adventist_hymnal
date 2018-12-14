@@ -1,5 +1,8 @@
-380
-Welcome, Day of Sweet Repose
+Title:Welcome, Day of Sweet Repose
+Author:
+Copyright:Public Domain
+CCLI:
+Hymnal:380
 
 
 [Verse 1]

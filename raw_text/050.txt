@@ -1,5 +1,8 @@
-50
-Abide With Me
+Title:Abide With Me
+Author:
+Copyright:Public Domain
+CCLI:
+Hymnal:50
 
 
 [Verse 1]

@@ -1,5 +1,8 @@
-98
-Can You Count the Stars
+Title:Can You Count the Stars
+Author:
+Copyright:Public Domain
+CCLI:
+Hymnal:98
 
 
 [Verse 1]

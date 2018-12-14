@@ -1,5 +1,8 @@
-691
-Lead Me, Lord
+Title:Lead Me, Lord
+Author:
+Copyright:Public Domain
+CCLI:
+Hymnal:691
 
 Lead me, Lord, lead me in thy righteousness;
 make thy way plain before my face.

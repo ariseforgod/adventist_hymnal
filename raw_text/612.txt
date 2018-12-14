@@ -1,5 +1,8 @@
-612
-Onward, Christian Soldiers!
+Title:Onward, Christian Soldiers!
+Author:
+Copyright:Public Domain
+CCLI:
+Hymnal:612
 
 
 [Verse 1]

@@ -1,5 +1,8 @@
-588
-Lord of All Nations
+Title:Lord of All Nations
+Author:
+Copyright:Public Domain
+CCLI:
+Hymnal:588
 
 
 [Verse 1]

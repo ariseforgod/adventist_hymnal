@@ -1,5 +1,8 @@
-666
-Cast Thy Burden Upon the Lord
+Title:Cast Thy Burden Upon the Lord
+Author:
+Copyright:Public Domain
+CCLI:
+Hymnal:666
 
 Cast thy burden upon the Lord,
 And He shall sustain thee;

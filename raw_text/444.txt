@@ -1,5 +1,8 @@
-444
-I'm a Pilgrim
+Title:I'm a Pilgrim
+Author:
+Copyright:Public Domain
+CCLI:
+Hymnal:444
 
 
 [Verse 1]

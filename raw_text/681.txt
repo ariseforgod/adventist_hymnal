@@ -1,5 +1,8 @@
-681
-This Is the Day the Lord Hath Made
+Title:This Is the Day the Lord Hath Made
+Author:
+Copyright:Public Domain
+CCLI:
+Hymnal:681
 
 This is the day the Lord hath made;
 he calls the hours his own.

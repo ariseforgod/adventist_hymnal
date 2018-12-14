@@ -1,5 +1,8 @@
-244
-My Song Shall Be of Jesus
+Title:My Song Shall Be of Jesus
+Author:
+Copyright:Public Domain
+CCLI:
+Hymnal:244
 
 
 [Verse 1]

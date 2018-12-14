@@ -1,5 +1,8 @@
-86
-How Great Thou Art
+Title:How Great Thou Art
+Author:
+Copyright:Public Domain
+CCLI:
+Hymnal:86
 
 
 [Verse 1]

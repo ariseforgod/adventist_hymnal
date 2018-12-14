@@ -1,5 +1,8 @@
-629
-O Happy Band of Pilgrims
+Title:O Happy Band of Pilgrims
+Author:
+Copyright:Public Domain
+CCLI:
+Hymnal:629
 
 
 [Verse 1]

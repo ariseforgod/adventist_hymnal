@@ -1,5 +1,8 @@
-80
-O World of God
+Title:O World of God
+Author:
+Copyright:Public Domain
+CCLI:
+Hymnal:80
 
 
 [Verse 1]

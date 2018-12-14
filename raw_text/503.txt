@@ -1,5 +1,8 @@
-503
-A Quiet Place
+Title:A Quiet Place
+Author:
+Copyright:Public Domain
+CCLI:
+Hymnal:503
 
 
 [Verse 1]

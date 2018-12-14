@@ -1,5 +1,8 @@
-398
-Bread of the World
+Title:Bread of the World
+Author:
+Copyright:Public Domain
+CCLI:
+Hymnal:398
 
 
 [Verse 1]

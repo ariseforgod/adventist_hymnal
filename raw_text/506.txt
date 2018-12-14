@@ -1,5 +1,8 @@
-506
-A Mighty Fortress
+Title:A Mighty Fortress
+Author:
+Copyright:Public Domain
+CCLI:
+Hymnal:506
 
 
 [Verse 1]

@@ -1,5 +1,8 @@
-475
-Balm in Gilead
+Title:Balm in Gilead
+Author:
+Copyright:Public Domain
+CCLI:
+Hymnal:475
 
 
 [Verse 1]

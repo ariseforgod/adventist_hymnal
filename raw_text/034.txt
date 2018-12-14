@@ -1,5 +1,8 @@
-34
-Wake the Song
+Title:Wake the Song
+Author:
+Copyright:Public Domain
+CCLI:
+Hymnal:34
 
 
 [Verse 1]

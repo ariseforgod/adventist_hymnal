@@ -1,5 +1,8 @@
-108
-Amazing Grace
+Title:Amazing Grace
+Author:
+Copyright:Public Domain
+CCLI:
+Hymnal:108
 
 
 [Verse 1]

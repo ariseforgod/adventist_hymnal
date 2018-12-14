@@ -1,5 +1,8 @@
-144
-O Sing a Song of Bethlehem
+Title:O Sing a Song of Bethlehem
+Author:
+Copyright:Public Domain
+CCLI:
+Hymnal:144
 
 
 [Verse 1]

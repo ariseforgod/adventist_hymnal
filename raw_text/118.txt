@@ -1,5 +1,8 @@
-118
-The First Noel
+Title:The First Noel
+Author:
+Copyright:Public Domain
+CCLI:
+Hymnal:118
 
 
 [Verse 1]

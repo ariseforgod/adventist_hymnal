@@ -1,5 +1,8 @@
-1
-Praise to the Lord
+Title:Praise to the Lord
+Author:
+Copyright:Public Domain
+CCLI:
+Hymnal:1
 
 
 [Verse 1]

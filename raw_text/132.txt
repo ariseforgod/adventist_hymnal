@@ -1,5 +1,8 @@
-132
-O Come, All Ye Faithful
+Title:O Come, All Ye Faithful
+Author:
+Copyright:Public Domain
+CCLI:
+Hymnal:132
 
 
 [Verse 1]

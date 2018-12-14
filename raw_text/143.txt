@@ -1,5 +1,8 @@
-143
-Silent Night, Holy Night
+Title:Silent Night, Holy Night
+Author:
+Copyright:Public Domain
+CCLI:
+Hymnal:143
 
 
 [Verse 1]

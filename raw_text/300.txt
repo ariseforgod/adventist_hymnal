@@ -1,5 +1,8 @@
-300
-Rock of Ages
+Title:Rock of Ages
+Author:
+Copyright:Public Domain
+CCLI:
+Hymnal:300
 
 
 [Verse 1]

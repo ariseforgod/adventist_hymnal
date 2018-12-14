@@ -1,5 +1,8 @@
-686
-Bless Thou the Gifts
+Title:Bless Thou the Gifts
+Author:
+Copyright:Public Domain
+CCLI:
+Hymnal:686
 
 Bless thou the gifts our hands have brought;
 bless thou the work our hearts have planned.

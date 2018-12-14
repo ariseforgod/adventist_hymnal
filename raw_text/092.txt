@@ -1,5 +1,8 @@
-92
-This Is My Father's World
+Title:This Is My Father's World
+Author:
+Copyright:Public Domain
+CCLI:
+Hymnal:92
 
 
 [Verse 1]

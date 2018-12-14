@@ -1,5 +1,8 @@
-135
-O Little Town of Bethlehem
+Title:O Little Town of Bethlehem
+Author:
+Copyright:Public Domain
+CCLI:
+Hymnal:135
 
 
 [Verse 1]

@@ -1,5 +1,8 @@
-664
-Sevenfold Amen
+Title:Sevenfold Amen
+Author:
+Copyright:Public Domain
+CCLI:
+Hymnal:664
 
 A-men,
 A-men,

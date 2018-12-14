@@ -1,5 +1,8 @@
-352
-This Is My Will
+Title:This Is My Will
+Author:
+Copyright:Public Domain
+CCLI:
+Hymnal:352
 
 
 [Verse 1]

@@ -1,5 +1,8 @@
-188
-My Song Is Love Unknown
+Title:My Song Is Love Unknown
+Author:
+Copyright:Public Domain
+CCLI:
+Hymnal:188
 
 
 [Verse 1]

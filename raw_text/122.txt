@@ -1,5 +1,8 @@
-122
-Hark! the Herald Angels Sing
+Title:Hark! the Herald Angels Sing
+Author:
+Copyright:Public Domain
+CCLI:
+Hymnal:122
 
 
 [Verse 1]

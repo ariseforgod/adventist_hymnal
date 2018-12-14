@@ -1,5 +1,8 @@
-13
-New Songs of Celebration Render
+Title:New Songs of Celebration Render
+Author:
+Copyright:Public Domain
+CCLI:
+Hymnal:13
 
 
 [Verse 1]

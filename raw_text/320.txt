@@ -1,5 +1,8 @@
-320
-Lord of Creation
+Title:Lord of Creation
+Author:
+Copyright:Public Domain
+CCLI:
+Hymnal:320
 
 
 [Verse 1]

@@ -1,5 +1,8 @@
-668
-O Thou Who Hearest
+Title:O Thou Who Hearest
+Author:
+Copyright:Public Domain
+CCLI:
+Hymnal:668
 
 O Thou who hearest every heartfelt prayer,
 With Thy rich grace, Lord, all our hearts prepare;

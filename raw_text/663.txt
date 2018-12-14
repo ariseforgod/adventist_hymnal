@@ -1,5 +1,8 @@
-663
-Amens
+Title:Amens
+Author:
+Copyright:Public Domain
+CCLI:
+Hymnal:663
 
 
 [Verse 1]

@@ -1,5 +1,8 @@
-501
-Tis the Blessed Hour of Prayer
+Title:Tis the Blessed Hour of Prayer
+Author:
+Copyright:Public Domain
+CCLI:
+Hymnal:501
 
 
 [Verse 1]

@@ -1,5 +1,8 @@
-236
-I Love Thee
+Title:I Love Thee
+Author:
+Copyright:Public Domain
+CCLI:
+Hymnal:236
 
 
 [Verse 1]
