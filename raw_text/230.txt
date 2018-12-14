@@ -1,4 +1,4 @@
-Title:All Glory, Laud, and Honor
+Title:All Glory, Laud, and Honour
 Author:
 Copyright:Public Domain
 CCLI:
@@ -6,7 +6,7 @@ Hymnal:230
 
 
 [Verse 1]
-All glory, laud, and honor,
+All glory, laud, and honour,
 to thee, Redeemer, King,
 to whom the lips of children
 made sweet hosannas ring.

@@ -1,4 +1,4 @@
-Title:With Songs and Honors
+Title:With Songs and Honours
 Author:
 Copyright:Public Domain
 CCLI:
@@ -6,7 +6,7 @@ Hymnal:35
 
 
 [Verse 1]
-With songs and honors sounding loud,
+With songs and honours sounding loud,
 Address the Lord on high;
 Over the heavens He spreads His cloud,
 And waters veil the sky.
@@ -32,5 +32,5 @@ And bids the spring return.
 [Verse 5]
 The changing wind, the flying cloud,
 Obey His mighty word:
-With songs and honors sounding loud
+With songs and honours sounding loud
 Praise ye the sovereign Lord!

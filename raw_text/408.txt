@@ -1,4 +1,4 @@
-Title:Lord, Enthroned in Heavenly Splendor
+Title:Lord, Enthroned in Heavenly Splendour
 Author:
 Copyright:Public Domain
 CCLI:
@@ -6,7 +6,7 @@ Hymnal:408
 
 
 [Verse 1]
-Lord, enthroned in heav’nly splendor,
+Lord, enthroned in heav’nly splendour,
 First begotten from the dead,
 You alone, our strong defender,
 Lifting up Your people’s head.

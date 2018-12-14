@@ -1,4 +1,4 @@
-Title:O Splendor of God's Glory Bright
+Title:O Splendour of God's Glory Bright
 Author:
 Copyright:Public Domain
 CCLI:
@@ -6,7 +6,7 @@ Hymnal:41
 
 
 [Verse 1]
-O splendor of God’s glory bright,
+O splendour of God’s glory bright,
 From light eternal bringing light;
 O Light of life, light’s living spring,
 True day, all days illumining.
