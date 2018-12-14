@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:50
 
-
 [Verse 1]
 Abide with me; fast falls the eventide;
 The darkness deepens; Lord with me abide!

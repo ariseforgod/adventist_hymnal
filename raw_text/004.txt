@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:4
 
-
 [Verse 1]
 Praise, my soul, the King of heaven;
 To his feet thy tribute bring;

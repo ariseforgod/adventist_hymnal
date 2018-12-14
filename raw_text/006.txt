@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:6
 
-
 [Verse 1]
 O worship the Lord in the beauty of holiness,
 Bow down before Him, His glory proclaim;

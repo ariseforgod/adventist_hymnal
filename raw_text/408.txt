@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:408
 
-
 [Verse 1]
 Lord, enthroned in heav’nly splendour,
 First begotten from the dead,

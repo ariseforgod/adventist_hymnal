@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:442
 
-
 [Verse 1]
 How sweet are the tidings that greet the pilgrim’s ear,
 As he wanders in exile from home!

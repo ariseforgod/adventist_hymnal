@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:204
 
-
 [Verse 1]
 Come, thou long expected Jesus!
 born to set thy people free;

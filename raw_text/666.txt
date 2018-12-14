@@ -4,6 +4,7 @@ Copyright:Public Domain
 CCLI:
 Hymnal:666
 
+[Verse 1]
 Cast thy burden upon the Lord,
 And He shall sustain thee;
 He never will suffer the righteous to fall;

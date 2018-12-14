@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:659
 
-
 [Verse 1]
 May the grace of Christ our Saviour
 And the Father’s boundless love,

@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:345
 
-
 [Verse 1]
 Christ is the world’s true light,
 Its captain of salvation,

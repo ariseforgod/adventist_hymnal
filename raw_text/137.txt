@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:137
 
-
 [Verse 1]
 We three kings of Orient are;
 Bearing gifts we traverse afar

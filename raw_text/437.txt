@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:437
 
-
 [Verse 1]
 My heav’nly home is bright and fair,
 Nor pain nor death can enter there;

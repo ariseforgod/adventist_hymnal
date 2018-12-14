@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:323
 
-
 [Verse 1]
 O for a heart to praise my God,
 A heart from sin set free,

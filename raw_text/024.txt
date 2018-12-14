@@ -4,7 +4,6 @@ Copyright:Covered by
 CCLI:515408
 Hymnal:24
 
-
 [Verse 1]
 Every star shall sing a carol;
 Every creatures, high or low,

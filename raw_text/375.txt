@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:375
 
-
 [Verse 1]
 Work for the night is coming,
 Work through the morning hours;

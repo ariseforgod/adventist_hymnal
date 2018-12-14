@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:515
 
-
 [Verse 1]
 The Lord is my light; then why should I fear?
 By day and by night His presence is near;

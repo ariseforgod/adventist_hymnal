@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:680
 
-
 [Verse 1]
 Holy Spirit, hear us;
 Help us while we sing;

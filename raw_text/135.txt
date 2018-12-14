@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:135
 
-
 [Verse 1]
 O little town of Bethlehem, how still we see thee lie!
 Above thy deep and dreamless sleep the silent stars go by.

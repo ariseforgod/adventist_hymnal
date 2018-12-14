@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:587
 
-
 [Verse 1]
 In Christ there is no east nor west,
 In Him no south or north;

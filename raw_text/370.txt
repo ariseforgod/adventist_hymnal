@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:370
 
-
 [Verse 1]
 Christ for the world we sing,
 the world to Christ we bring,

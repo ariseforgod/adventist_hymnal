@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:657
 
-
 [Verse 1]
 O God from whom mankind derives its name;
 Whose covenant of grace remains the same,

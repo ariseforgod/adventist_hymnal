@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:81
 
-
 [Verse 1]
 Though I speak with tongues of men and angels,
 Though I have the prophet’s gift,

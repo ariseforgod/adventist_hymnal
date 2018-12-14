@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:240
 
-
 [Verse 1]
 Fairest Lord Jesus, ruler of all nature,
 O thou of God and man the Son!

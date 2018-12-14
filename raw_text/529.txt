@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:529
 
-
 [Verse 1]
 Under His wings I am safely abiding;
 Though the night deepens and tempests are wild,

@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:227
 
-
 [Verse 1]
 Jesus shall reign where’er the sun
 Does his successive journeys run;

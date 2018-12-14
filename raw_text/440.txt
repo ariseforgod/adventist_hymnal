@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:440
 
-
 [Verse 1]
 How cheering is the Christian’s hope,
 While toiling here below!

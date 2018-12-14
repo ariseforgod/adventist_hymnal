@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:123
 
-
 [Verse 1]
 As with gladness men of old
 Did the guiding star behold,

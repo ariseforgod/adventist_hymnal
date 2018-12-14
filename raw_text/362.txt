@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:362
 
-
 [Chorus]
 Lift high the cross, the love of Christ proclaim,
 Till all the world adore His sacred Name.

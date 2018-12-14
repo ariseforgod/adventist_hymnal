@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:357
 
-
 [Verse 1]
 Come, labor on.
 Who dares stand idle on the harvest plain

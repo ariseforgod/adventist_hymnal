@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:350
 
-
 [Verse 1]
 Blest be the tie that binds
 our hearts in Christian love;

@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:300
 
-
 [Verse 1]
 Rock of Ages, cleft for me,
 Let me hide myself in Thee;

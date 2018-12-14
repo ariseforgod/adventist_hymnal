@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:151
 
-
 [Verse 1]
 Jesus walked this lonesome valley;
 He had to walk it by Himself.

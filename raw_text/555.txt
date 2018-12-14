@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:555
 
-
 [Verse 1]
 Shepherd of tender you,
 Guiding in love and truth,

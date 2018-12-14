@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:282
 
-
 [Verse 1]
 I hear Thy welcome voice,
 That calls me, Lord, to Thee;

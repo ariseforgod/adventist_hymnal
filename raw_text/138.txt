@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:138
 
-
 [Verse 1]
 There’s a star in the east on Christmas morn.
 Rise up, shepherd, and follow.

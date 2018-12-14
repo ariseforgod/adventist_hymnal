@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:649
 
-
 [Verse 1]
 Lord, while for all mankind we pray
 Of every clime and coast,

@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:210
 
-
 [Verse 1]
 Wake, awake, for night is flying,
 The watchmen on the heights are crying,

@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:460
 
-
 [Verse 1]
 As water to the thirsty,
 As beauty to the eyes,

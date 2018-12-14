@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:464
 
-
 [Verse 1]
 When I can read my title clear
 To mansions in the skies

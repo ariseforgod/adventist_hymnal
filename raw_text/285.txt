@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:285
 
-
 [Verse 1]
 Jesus calls us o’er the tumult
 of our life’s wild, restless sea;

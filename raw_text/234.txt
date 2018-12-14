@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:234
 
-
 [Verse 1]
 Christ is the world’s light,
 Christ and none other;

@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:387
 
-
 [Verse 1]
 Peace and healing on thy wing;
 And to every troubled breast

@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:8
 
-
 [Verse 1]
 We gather together to ask
 the Lord’s blessing;

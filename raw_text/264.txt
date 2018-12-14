@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:264
 
-
 [Verse 1]
 O for that flame of living fire
 Which shone so bright in saints of old;

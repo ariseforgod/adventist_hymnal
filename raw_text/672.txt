@@ -4,6 +4,7 @@ Copyright:Public Domain
 CCLI:
 Hymnal:672
 
+[Verse 1]
 Spirit of the living God,
 Fall afresh on me!
 Spirit of the living God,

@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:361
 
-
 [Verse 1]
 Hark! ’tis the Shepherd’s voice I hear,
 Out in the desert dark and drear,

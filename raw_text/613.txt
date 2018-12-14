@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:613
 
-
 [Verse 1]
 Fight the good fight with all thy might;
 Christ is thy strength, and Christ thy right;

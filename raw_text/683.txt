@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:683
 
-
 [Verse 1]
 Jesus, stand among us
 In Thy risen power;

@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:328
 
-
 [Verse 1]
 Must Jesus bear the cross alone,
 and all the world go free?

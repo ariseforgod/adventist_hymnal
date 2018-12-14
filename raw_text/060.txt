@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:60
 
-
 [Verse 1]
 Blessed Jesus, at Thy word,
 We have gathered all to hear Thee;

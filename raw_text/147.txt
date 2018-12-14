@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:147
 
-
 [Verse 1]
 Christ upon the mountain peak
 Stands alone in glory blazing;

@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:348
 
-
 [Verse 1]
 The church’s one foundation
 is Jesus Christ her Lord;

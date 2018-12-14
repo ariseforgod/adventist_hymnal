@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:472
 
-
 [Verse 1]
 Sometimes I hear strange music,
 Like none e’er heard before,

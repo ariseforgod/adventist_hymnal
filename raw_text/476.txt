@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:476
 
-
 [Verse 1]
 Days are filled with sorrow and care,
 Hearts are lonely and drear;

@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:530
 
-
 [Verse 1]
 When peace, like a river, attendeth my way,
 when sorrows like sea billows roll;

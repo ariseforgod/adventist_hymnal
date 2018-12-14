@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:70
 
-
 [Verse 1]
 Praise ye the Father for His loving kindness,
 Tenderly cares He for His erring children;

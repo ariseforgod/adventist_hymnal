@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:113
 
-
 [Verse 1]
 As pants the hart for cooling streams
 When heated in the chase,

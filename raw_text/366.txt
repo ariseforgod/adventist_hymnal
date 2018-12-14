@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:366
 
-
 [Verse 1]
 O where are the reapers that garner in
 The sheaves of the good from the fields of sin?

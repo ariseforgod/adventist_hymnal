@@ -4,6 +4,7 @@ Copyright:Public Domain
 CCLI:
 Hymnal:669
 
+[Verse 1]
 The Lord bless you and keep you,
 the Lord life His countenance upon you,
 and give you peace;

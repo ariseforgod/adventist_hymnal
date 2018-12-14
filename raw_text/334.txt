@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:334
 
-
 [Verse 1]
 Come, thou Fount of every blessing,
 Tune my heart to sing thy grace;

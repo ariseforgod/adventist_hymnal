@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:1
 
-
 [Verse 1]
 Praise to the Lord,
 the Almighty, the King of creation!

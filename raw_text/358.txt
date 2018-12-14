@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:358
 
-
 [Verse 1]
 Far and near the fields are teeming
 with the sheaves of ripened grain;

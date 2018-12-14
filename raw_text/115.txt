@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:115
 
-
 [Verse 1]
 O come, O come, Emmanuel,
 And ransom captive Israel,

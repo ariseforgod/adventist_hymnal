@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:107
 
-
 [Verse 1]
 God moves in a mysterious way
 His wonders to perform;

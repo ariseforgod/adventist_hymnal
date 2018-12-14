@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:48
 
-
 [Verse 1]
 Softly now the light of day
 Fades upon out sight away:

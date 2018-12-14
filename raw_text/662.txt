@@ -4,6 +4,7 @@ Copyright:Public Domain
 CCLI:
 Hymnal:662
 
+[Verse 1]
 Let all mortal flesh keep silence,
 And with fear and trembling stand;
 Ponder nothing earthly-minded,

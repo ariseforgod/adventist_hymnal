@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:149
 
-
 [Verse 1]
 Once in royal David’s city
 Stood a lowly cattle shed,

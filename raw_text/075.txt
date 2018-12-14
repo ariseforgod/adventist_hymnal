@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:75
 
-
 [Verse 1]
 There’s the wonder of sunset at evening,
 The wonder as sunrise I see;

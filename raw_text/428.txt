@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:428
 
-
 [Verse 1]
 There’s a land that is fairer than day,
 And by faith we can see it afar;

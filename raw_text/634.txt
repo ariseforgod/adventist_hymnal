@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:634
 
-
 [Verse 1]
 Come, all Christians, be committed
 To the service of the lord;

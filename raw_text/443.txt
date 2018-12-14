@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:443
 
-
 [Verse 1]
 There’ll be no night in heaven,
 In that blest world above;

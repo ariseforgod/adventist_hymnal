@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:215
 
-
 [Verse 1]
 The King shall come when morning dawns
 And light triumphant breaks,

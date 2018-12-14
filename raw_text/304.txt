@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:304
 
-
 [Verse 1]
 Faith of our fathers, living still,
 In spite of dungeon, fire and sword;

@@ -4,6 +4,7 @@ Copyright:Public Domain
 CCLI:
 Hymnal:172
 
+[Intro]
 Alleluia, alleluia, alleluia!
 
 [Verse 1]

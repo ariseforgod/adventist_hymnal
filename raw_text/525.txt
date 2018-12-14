@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:525
 
-
 [Verse 1]
 O safe to the Rock that is higher than I,
 My soul in its conflicts and sorrows would fly;

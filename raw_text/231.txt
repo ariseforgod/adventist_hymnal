@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:231
 
-
 [Verse 1]
 Blest be the King whose coming
 Is in the name of God!

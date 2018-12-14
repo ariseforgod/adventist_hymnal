@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:421
 
-
 [Verse 1]
 For all the saints
 who from their labors rest,

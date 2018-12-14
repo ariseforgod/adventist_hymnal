@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:501
 
-
 [Verse 1]
 ‘Tis the blessed hour of prayer, when our hearts lowly bend,
 And we gather to Jesus, our Saviour and Friend;

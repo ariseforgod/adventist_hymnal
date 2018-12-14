@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:559
 
-
 [Verse 1]
 Now thank we all our God
 with heart and hands and voices,

@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:119
 
-
 [Verse 1]
 Angels from the realms of glory,
 Wing your flight o'er all the earth;

@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:601
 
-
 [Verse 1]
 Watchmen, on the walls of Zion,
 What O tell us, of the night?

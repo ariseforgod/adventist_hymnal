@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:33
 
-
 [Verse 1]
 Sing a new song to the Lord,
 He to whom wonders belong.

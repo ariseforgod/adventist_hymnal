@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:63
 
-
 [Verse 1]
 O come, let us sing to the Lord,
 Come let us every one

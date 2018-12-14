@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:194
 
-
 [Verse 1]
 Sing we of the modern city,
 Scene alike of joy and stress;

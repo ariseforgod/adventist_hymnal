@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:150
 
-
 [Verse 1]
 Who is He in yonder stall,
 At whose feet the shepherds fall?

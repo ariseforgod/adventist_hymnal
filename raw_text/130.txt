@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:130
 
-
 [Verse 1]
 It came upon the midnight clear,
 That glorious song of old,

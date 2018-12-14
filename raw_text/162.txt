@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:162
 
-
 [Verse 1]
 What wondrous love is this,
 O my soul, O my soul?

@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:565
 
-
 [Verse 1]
 For the beauty of the earth,
 for the glory of the skies,

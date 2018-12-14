@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:255
 
-
 [Verse 1]
 I cannot tell why He whom angels worship
 Should set His love upon the souls of men,

@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:506
 
-
 [Verse 1]
 A mighty fortress is our God,
 a bulwark never failing;

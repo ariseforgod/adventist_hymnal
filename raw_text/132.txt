@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:132
 
-
 [Verse 1]
 O come, all ye faithful, joyful and triumphant,
 O come ye, O come ye to Bethlehem!

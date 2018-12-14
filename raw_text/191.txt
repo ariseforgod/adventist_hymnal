@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:191
 
-
 [Verse 1]
 Love divine, all loves excelling,
 joy of heaven, to earth come down;

@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:141
 
-
 [Verse 1]
 What child is this, who, laid to rest,
 On Mary's lap is sleeping?

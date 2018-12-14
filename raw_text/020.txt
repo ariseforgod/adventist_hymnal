@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:20
 
-
 [Verse 1]
 O praise ye the Lord!
 Praise Him in the height;

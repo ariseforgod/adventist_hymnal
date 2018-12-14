@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:533
 
-
 [Verse 1]
 O, for a faith that will not shrink,
 Though pressed by many a foe,

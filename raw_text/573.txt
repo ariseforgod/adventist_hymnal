@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:573
 
-
 [Verse 1]
 It may not be on the mountain height
 Or over the stormy sea,

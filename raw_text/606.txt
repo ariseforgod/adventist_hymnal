@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:606
 
-
 [Verse 1]
 Once to every man and nation, comes the moment to decide,
 In the strife of truth with falsehood, for the good or evil side;

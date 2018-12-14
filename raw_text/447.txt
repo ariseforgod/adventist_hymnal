@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:447
 
-
 [Verse 1]
 Long upon the mountains weary,
 Have the scattered flocks been torn;

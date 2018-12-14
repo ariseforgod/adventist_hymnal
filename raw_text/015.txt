@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:15
 
-
 [Verse 1]
 My Maker and my King,
 To Thee my all I owe;

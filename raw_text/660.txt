@@ -4,6 +4,7 @@ Copyright:Public Domain
 CCLI:
 Hymnal:660
 
+[Verse 1]
 Glory be to the Father,
 and to the Son,
 and to the Holy Ghost;

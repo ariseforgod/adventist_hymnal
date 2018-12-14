@@ -4,6 +4,7 @@ Copyright:Public Domain
 CCLI:
 Hymnal:668
 
+[Verse 1]
 O Thou who hearest every heartfelt prayer,
 With Thy rich grace, Lord, all our hearts prepare;
 Thou art our life, Thou art our love and light,

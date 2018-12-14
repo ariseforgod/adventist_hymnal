@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:432
 
-
 [Verse 1]
 Shall we gather at the river,
 where bright angel feet have trod,

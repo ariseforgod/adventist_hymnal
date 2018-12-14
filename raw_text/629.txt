@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:629
 
-
 [Verse 1]
 O happy band of pilgrims,
 If onward ye will tread

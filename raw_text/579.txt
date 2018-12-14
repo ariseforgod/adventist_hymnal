@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:579
 
-
 [Verse 1]
 'Tis love that makes us happy,
 'Tis love that smooths the way;

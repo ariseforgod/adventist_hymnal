@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:35
 
-
 [Verse 1]
 With songs and honours sounding loud,
 Address the Lord on high;

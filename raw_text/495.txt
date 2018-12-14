@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:495
 
-
 [Verse 1]
 There is a place of quiet rest,
 near to the heart of God;

@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:2
 
-
 [Verse 1]
 All creatures of our God and King
 Lift up your voice and with us sing,

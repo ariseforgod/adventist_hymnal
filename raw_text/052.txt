@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:52
 
-
 [Verse 1]
 Now the day is over,
 night is drawing nigh,

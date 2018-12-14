@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:139
 
-
 [Verse 1]
 While shepherds watched their flocks by night,
 All seated on the ground,

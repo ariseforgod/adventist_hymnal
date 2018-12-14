@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:355
 
-
 [Verse 1]
 Where cross the crowded ways of life,
 where sound the cries of race and clan,

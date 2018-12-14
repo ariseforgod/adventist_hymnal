@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:100
 
-
 [Verse 1]
 Great is Thy faithfulness, O God my Father;
 There is no shadow of turning with Thee;

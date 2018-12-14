@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:127
 
-
 [Verse 1]
 Infant holy, infant lowly,
 For His bed a cattle stall;

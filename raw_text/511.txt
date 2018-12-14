@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:511
 
-
 [Verse 1]
 I know not why God’s wondrous grace To me He hath made known,
 Nor why, unworthy, Christ in love Redeemed me for His own.

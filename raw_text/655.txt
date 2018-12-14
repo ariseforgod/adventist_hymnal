@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:655
 
-
 [Verse 1]
 Happy the home when God is there,
 and love fills every breast;

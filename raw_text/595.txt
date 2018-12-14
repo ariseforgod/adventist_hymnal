@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:595
 
-
 [Verse 1]
 Let every lamp be burning bright,
 The darkest hour is nearing;

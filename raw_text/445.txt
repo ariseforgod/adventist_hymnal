@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:445
 
-
 [Verse 1]
 I’m but a stranger here,
 Heav’n is my home;

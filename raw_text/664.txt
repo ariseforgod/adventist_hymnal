@@ -4,6 +4,7 @@ Copyright:Public Domain
 CCLI:
 Hymnal:664
 
+[Verse 1]
 A-men,
 A-men,
 A—men,

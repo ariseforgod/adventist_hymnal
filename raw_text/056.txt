@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:56
 
-
 [Verse 1]
 The day Thou gavest, Lord, is ended;
 the darkness falls at Thy behest;

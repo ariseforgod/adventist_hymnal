@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:333
 
-
 [Verse 1]
 On Jordan’s banks the Baptist’s cry
 Announces that the Lord is nigh;

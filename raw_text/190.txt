@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:190
 
-
 [Verse 1]
 Jesus loves me! this I know,
 For the Bible tells me so;

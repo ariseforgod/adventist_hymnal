@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:628
 
-
 [Verse 1]
 As Jacob with travel was weary one day,
 At night on a stone for a pillow he lay;

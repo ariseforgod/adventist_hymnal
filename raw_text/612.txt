@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:612
 
-
 [Verse 1]
 Onward, Christian soldiers, marching as to war,
 with the cross of Jesus going on before.

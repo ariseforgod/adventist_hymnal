@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:500
 
-
 [Verse 1]
 Take time to be holy,
 speak oft with thy Lord;

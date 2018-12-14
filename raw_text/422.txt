@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:422
 
-
 [Verse 1]
 Come, we that love the Lord,
 And let our joys be known;

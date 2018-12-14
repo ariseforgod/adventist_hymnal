@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:125
 
-
 [Verse 1]
 Joy to the world, the Lord is come!
 Let earth receive her King;

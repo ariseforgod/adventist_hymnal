@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:120
 
-
 [Verse 1]
 There’s a song in the air!
 There’s a star in the sky!

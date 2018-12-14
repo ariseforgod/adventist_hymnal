@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:159
 
-
 [Verse 1]
 On a hill far away stood an old rugged cross,
 the emblem of suffering and shame;

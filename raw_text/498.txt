@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:498
 
-
 [Verse 1]
 Still, still with Thee, when purple morning breaketh,
 When the bird waketh, and the shadows flee;

@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:164
 
-
 [Verse 1]
 There is a green hill far away,
 Without a city wall,

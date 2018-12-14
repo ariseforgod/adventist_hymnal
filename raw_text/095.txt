@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:95
 
-
 [Verse 1]
 Spring has now unwrapped the flowers,
 Day is fast reviving,

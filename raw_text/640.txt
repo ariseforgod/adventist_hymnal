@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:640
 
-
 [Verse 1]
 For beauty of meadows, for grandeur of trees,
 For flowers of woodlands, for creatures of seas,

@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:21
 
-
 [Verse 1]
 Immortal, invisible, God only wise,
 In light inaccessible hid from our eyes,

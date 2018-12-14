@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:424
 
-
 [Verse 1]
 For thee, O dear country,
 Mine eyes their vigils keep;

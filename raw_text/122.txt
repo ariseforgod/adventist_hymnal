@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:122
 
-
 [Verse 1]
 Hark! the herald angels sing,
 “Glory to the new born King,

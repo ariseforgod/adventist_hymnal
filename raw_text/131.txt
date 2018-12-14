@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:131
 
-
 [Verse 1]
 Lo, how a rose e’re blooming
 From tender stem hath sprung,

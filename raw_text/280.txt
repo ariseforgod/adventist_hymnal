@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:280
 
-
 [Verse 1]
 Come, ye sinners poor and needy,
 Weak and wounded, sick and sore;

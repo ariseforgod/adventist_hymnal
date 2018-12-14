@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:106
 
-
 [Verse 1]
 Give to our God immortal praise;
 Mercy and truth are all His ways:

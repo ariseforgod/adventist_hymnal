@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:129
 
-
 [Verse 1]
 As it fell upon a night
 In the winter weather,

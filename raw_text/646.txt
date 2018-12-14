@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:646
 
-
 [Verse 1]
 To the name that brings salvation
 Let the nations bow the head;

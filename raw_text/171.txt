@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:171
 
-
 [Verse 1]
 Thine is the glory,
 Risen, conquering Son;

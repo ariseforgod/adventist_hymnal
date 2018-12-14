@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:5
 
-
 [Verse 1]
 All my hope on God is founded;
 He doth still my trust renew.

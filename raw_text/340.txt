@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:340
 
-
 [Verse 1]
 We have heard a joyful sound,
 Jesus saves, Jesus saves;

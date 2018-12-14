@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:631
 
-
 [Verse 1]
 When on life a darkness falls,
 When the mist flows chilling,

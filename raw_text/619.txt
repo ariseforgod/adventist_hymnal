@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:619
 
-
 [Verse 1]
 Lead on, O King eternal,
 the day of march has come;

@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:622
 
-
 [Verse 1]
 Come, come, ye saints, no toil nor labor fear;
 But with joy wend your way.

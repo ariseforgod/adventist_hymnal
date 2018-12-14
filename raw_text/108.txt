@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:108
 
-
 [Verse 1]
 Amazing grace! How sweet the sound
 that saved a wretch like me!

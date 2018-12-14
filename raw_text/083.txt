@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:83
 
-
 [Verse 1]
 O worship the King, all glorious above,
 O gratefully sing His wonderful love;

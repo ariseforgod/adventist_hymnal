@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:429
 
-
 [Verse 1]
 Jerusalem the golden,
 With milk and honey blest,

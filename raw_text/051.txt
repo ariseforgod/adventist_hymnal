@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:51
 
-
 [Verse 1]
 Day is dying in the west;
 Heaven is touching earth with rest;

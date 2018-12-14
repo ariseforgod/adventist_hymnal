@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:647
 
-
 [Verse 1]
 Mine eyes have seen the glory of the coming of the Lord;
 He is trampling out the vintage where the grapes of wrath are stored;

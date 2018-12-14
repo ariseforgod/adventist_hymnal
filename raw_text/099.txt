@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:99
 
-
 [Verse 1]
 Be not dismayed whate’er betide,
 God will take care of you;

@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:406
 
-
 [Verse 1]
 Love consecrates the humblest act
 And haloes mercy’s deeds;

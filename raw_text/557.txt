@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:557
 
-
 [Verse 1]
 Come, ye thankful people, come,
 Raise the song of harvest home;

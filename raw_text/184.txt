@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:184
 
-
 [Verse 1]
 I hear the Saviour say,
 “Thy strength indeed is small;

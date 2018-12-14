@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:306
 
-
 [Verse 1]
 I am thine, O Lord, I have heard thy voice,
 and it told thy love to me;

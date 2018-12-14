@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:154
 
-
 [Verse 1]
 When I survey the wondrous cross
 on which the Prince of Glory died;

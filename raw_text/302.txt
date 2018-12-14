@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:302
 
-
 [Verse 1]
 In the blood from the cross,
 I have been washed from sin;

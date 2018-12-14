@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:203
 
-
 [Verse 1]
 This is the threefold truth
 On which our faith depends;

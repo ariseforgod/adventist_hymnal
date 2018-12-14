@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:170
 
-
 [Verse 1]
 Come, you faithful, raise the strain
 Of triumphant gladness;

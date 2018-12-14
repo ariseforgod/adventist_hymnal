@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:10
 
-
 [Verse 1]
 Come, Christians, join to sing,
 Alleluia! Amen!

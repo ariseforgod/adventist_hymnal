@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:46
 
-
 [Verse 1]
 Abide with me, ’tis eventide!
 The day is past and gone;

@@ -4,7 +4,6 @@ Copyright:Public Domain
 CCLI:
 Hymnal:128
 
-
 [Verse 1]
 Break forth, O beauteous heavenly light,
 And usher in the morning;
