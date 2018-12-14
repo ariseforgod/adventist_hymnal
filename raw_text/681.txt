@@ -4,6 +4,7 @@ Copyright:Public Domain
 CCLI:
 Hymnal:681
 
+[Verse 1]
 This is the day the Lord hath made;
 he calls the hours his own.
 Let heaven rejoice, let earth be glad,

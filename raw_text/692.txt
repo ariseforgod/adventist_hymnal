@@ -4,6 +4,7 @@ Copyright:Public Domain
 CCLI:
 Hymnal:692
 
+[Verse 1]
 The Lord is in His holy temple,
 The Lord is in His holy temple,
 Let all the earth keep silence,

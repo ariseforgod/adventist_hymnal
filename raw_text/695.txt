@@ -4,6 +4,7 @@ Copyright:Public Domain
 CCLI:
 Hymnal:695
 
+[Verse 1]
 Praise God, from Whom all blessings flow;
 Praise Him, all creatures here below;
 Praise Him above, ye heavenly host;
