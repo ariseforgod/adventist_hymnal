@@ -1,5 +1,5 @@
 Title:Rock of Ages
-Author:
+Author:@
 Copyright:Public Domain
 CCLI:
 Hymnal:300
@@ -15,7 +15,7 @@ Cleanse me from its guilt and power.
 
 [Verse 2]
 Not the labor of my hands
-Can fulfill Thy law’s demands;
+Can fulfil Thy law’s demands;
 Could my zeal no respite know,
 Could my tears forever flow,
 All for sin could not atone;

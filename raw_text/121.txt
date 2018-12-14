@@ -1,5 +1,5 @@
 Title:Go, Tell It On the Mountain
-Author:
+Author:@
 Copyright:Public Domain
 CCLI:
 Hymnal:121
