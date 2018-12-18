@@ -3,12 +3,18 @@ Author:©
 Copyright:Public Domain
 CCLI:
 Hymnal:6
+PlayOrder:Verse 1,Verse 2,Verse 3,Verse 4
 
 [Verse 1]
-O worship the Lord in the beauty of holiness,
-Bow down before Him, His glory proclaim;
-With gold of obedience, and incense of lowliness,
-Kneel and adore Him: the Lord is His name.
+O worship the Lord in
+the beauty of holiness,
+Bow down before Him,
+His glory proclaim;
+
+With gold of obedience, 
+and incense of lowliness,
+Kneel and adore Him:
+the Lord is His name.
 
 [Verse 2]
 Low at His feet lay thy burden of carefulness,

@@ -3,6 +3,7 @@ Author:©
 Copyright:Public Domain
 CCLI:
 Hymnal:39
+PlayOrder:Verse 1,Verse 2,Verse 3,Verse 4
 
 [Verse 1]
 Lord, in the morning Thou shalt hear
@@ -21,7 +22,9 @@ O may Thy Spirit guide my feet
 In ways of righteousness;
 Make every path of duty straight
 And plain before my face.
-[Verse 4] The men that love and fear Thy name
-Shall see their hopes fulfiled;
+
+[Verse 4]
+The men that love and fear Thy name
+Shall see their hopes fulfilled;
 The mighty God will compass them
 With favour as a shield.

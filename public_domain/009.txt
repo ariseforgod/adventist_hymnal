@@ -3,6 +3,7 @@ Author:©
 Copyright:Public Domain
 CCLI:
 Hymnal:9
+PlayOrder:Verse 1,Verse 2
 
 [Verse 1]
 Let all the world in every corner sing, My God and King!

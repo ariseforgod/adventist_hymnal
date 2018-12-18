@@ -3,12 +3,14 @@ Author:©
 Copyright:Public Domain
 CCLI:
 Hymnal:131
+PlayOrder:Verse 1,Verse 2
 
 [Verse 1]
 Lo, how a rose e’re blooming
 From tender stem hath sprung,
 Of Jesse’s lineage coming
 As men of old have sung.
+
 It came, a floweret bright,
 Amid the cold of winter
 When half spent was the night.
@@ -18,6 +20,7 @@ Isaiah ’twas foretold it,
 The Rose I have in mind,
 With Mary we beheld it,
 The virgin mother kind.
+
 To show God’s love aright
 She bore to them a Saviour,
 When half spent was the night.

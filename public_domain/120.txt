@@ -3,12 +3,14 @@ Author:©
 Copyright:Public Domain
 CCLI:
 Hymnal:120
+PlayOrder:Verse 1,Verse 2,Verse 3,Verse 4
 
 [Verse 1]
 There’s a song in the air!
 There’s a star in the sky!
 There’s a mother’s deep prayer
 And a baby’s low cry!
+
 And the star rains its fire
 while the beautiful sing,
 For the manger of Bethlehem
@@ -19,6 +21,7 @@ There’s a tumult of joy
 O’er the wonderful birth,
 For the virgin’s sweet boy
 Is the Lord of the earth.
+
 Aye! the star rains its fire
 while the beautiful sing,
 For the manger of Bethlehem
@@ -29,6 +32,7 @@ In the light of that star
 Lie the ages impearled;
 And that song from afar
 Has swept over the world.
+
 Every hearth is aflame
 and the beautiful sing
 In the homes of the nations
@@ -39,6 +43,8 @@ We rejoice in the light,
 And we echo the song
 That comes down through the night
 From the heavenly throng.
-Aye! we shout to the lovely evangel they bring,
+
+Aye! we shout to the lovely
+evangel they bring,
 And we greet in His cradle
 our Saviour and King!

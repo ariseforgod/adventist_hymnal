@@ -3,6 +3,7 @@ Author:©
 Copyright:Public Domain
 CCLI:
 Hymnal:122
+PlayOrder:Verse 1,Verse 2,Verse 3
 
 [Verse 1]
 Hark! the herald angels sing,
@@ -10,6 +11,7 @@ Hark! the herald angels sing,
 peace on earth, and mercy mild,
 God and sinners reconciled!”
 Joyful, all ye nations rise,
+
 join the triumph of the skies;
 with th’angelic host proclaim,
 “Christ is born in Bethlehem!”
@@ -22,6 +24,7 @@ Christ, the everlasting Lord;
 In the manger born a king,
 While adoring angels sing,
 "Peace on earth, to men good will;"
+
 Bid the trembling soul be still,
 Christ on earth has come to dwell,
 Jesus, our Immanuel!
@@ -34,6 +37,7 @@ Hail the Sun of Righteousness!
 Light and life to all he brings,
 risen with healing in his wings.
 Mild he lays his glory by,
+
 born that we no more may die,
 born to raise us from the earth,
 born to give us second birth.

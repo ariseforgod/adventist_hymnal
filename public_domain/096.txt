@@ -3,12 +3,14 @@ Author:©
 Copyright:Public Domain
 CCLI:
 Hymnal:96
+PlayOrder:Verse 1,Verse 2,Verse 3
 
 [Verse 1]
 The spacious firmament on high,
 With all the blue, ethereal sky,
 And spangled heavens, a shining frame,
 Their great Original proclaim.
+
 Th’unwearied sun from day to day
 Does his Creator’s power display,
 And publishes to every land
@@ -19,6 +21,7 @@ Soon as the evening shades prevail,
 The moon takes up the wondrous tale;
 And nightly to the listening earth
 Repeats the story of her birth;
+
 While all the stars that round her burn,
 And all the planets in their turn,
 Confirm the tidings as they roll,
@@ -29,6 +32,7 @@ What though in solemn silence all
 Move round the dark terrestrial ball?
 What though no real voice nor sound
 Amid their radiant orbs be found?
+
 In reason’s ear they all rejoice
 And utter forth a glorious voice,
 Forever singing as they shine,
