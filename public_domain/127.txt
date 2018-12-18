@@ -2,7 +2,7 @@ Title:Infant Holy, Infant Lowly
 Author:©
 Copyright:Public Domain
 CCLI:
-Hymnal:127
+Hymnal:Hymn 127
 PlayOrder:Verse 1,Verse 2
 
 [Verse 1]

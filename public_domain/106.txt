@@ -2,7 +2,7 @@ Title:Give to Our god Immortal Praise
 Author:©
 Copyright:Public Domain
 CCLI:
-Hymnal:106
+Hymnal:Hymn 106
 PlayOrder:Verse 1,Verse 2,Verse 3,Verse 4
 
 [Verse 1]

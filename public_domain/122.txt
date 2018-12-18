@@ -2,7 +2,7 @@ Title:Hark! the Herald Angels Sing
 Author:©
 Copyright:Public Domain
 CCLI:
-Hymnal:122
+Hymnal:Hymn 122
 PlayOrder:Verse 1,Verse 2,Verse 3
 
 [Verse 1]

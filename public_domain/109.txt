@@ -2,7 +2,7 @@ Title:Marvellous Grace
 Author:©
 Copyright:Public Domain
 CCLI:
-Hymnal:109
+Hymnal:Hymn 109
 PlayOrder:Verse 1,Chorus,Verse 2,Chorus,Verse 3,Chorus
 
 [Verse 1]

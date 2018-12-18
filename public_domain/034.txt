@@ -2,7 +2,7 @@ Title:Wake the Song
 Author:©
 Copyright:Public Domain
 CCLI:
-Hymnal:34
+Hymnal:Hymn 34
 PlayOrder:Verse 1,Chorus,Verse 2,Chorus,Verse 3,Chorus
 
 [Verse 1]

@@ -2,7 +2,7 @@ Title:Amens
 Author:
 Copyright:Projection Not Permitted
 CCLI:
-Hymnal:663
+Hymnal:Hymn 663
 
 
 [Verse 1]

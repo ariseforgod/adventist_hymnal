@@ -2,7 +2,7 @@ Title:There's a Song in the Air
 Author:©
 Copyright:Public Domain
 CCLI:
-Hymnal:120
+Hymnal:Hymn 120
 PlayOrder:Verse 1,Verse 2,Verse 3,Verse 4
 
 [Verse 1]

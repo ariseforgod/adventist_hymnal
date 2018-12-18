@@ -2,7 +2,7 @@ Title:The Day Thou Gavest
 Author:©
 Copyright:Public Domain
 CCLI:
-Hymnal:56
+Hymnal:Hymn 56
 PlayOrder:Verse 1,Verse 2,Verse 3,Verse 4
 
 [Verse 1]

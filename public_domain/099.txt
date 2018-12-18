@@ -2,7 +2,7 @@ Title:God Will Take Care of You
 Author:©
 Copyright:Public Domain
 CCLI:
-Hymnal:99
+Hymnal:Hymn 99
 PlayOrder:Verse 1,Chorus,Verse 2,Chorus,Verse 3,Chorus,Verse 4,Chorus
 
 [Verse 1]

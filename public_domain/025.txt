@@ -2,7 +2,7 @@ Title:Praise the Lord His Glories Show
 Author:©
 Copyright:Public Domain
 CCLI:
-Hymnal:25
+Hymnal:Hymn 25
 PlayOrder:Verse 1,Verse 2,Verse 3
 
 [Verse 1]

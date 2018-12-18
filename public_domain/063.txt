@@ -2,7 +2,7 @@ Title:O Come, Let Us Sing to the Lord
 Author:©
 Copyright:Public Domain
 CCLI:
-Hymnal:63
+Hymnal:Hymn 63
 PlayOrder:Verse 1,Verse 2,Verse 3,Verse 4,Verse 5
 
 [Verse 1]

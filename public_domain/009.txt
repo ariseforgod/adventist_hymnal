@@ -2,7 +2,7 @@ Title:Let All the World in Every Corner Sing
 Author:©
 Copyright:Public Domain
 CCLI:
-Hymnal:9
+Hymnal:Hymn 9
 PlayOrder:Verse 1,Verse 2
 
 [Verse 1]

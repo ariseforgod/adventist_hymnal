@@ -2,7 +2,7 @@ Title:The First Noel
 Author:©
 Copyright:Public Domain
 CCLI:
-Hymnal:118
+Hymnal:Hymn 118
 PlayOrder:Verse 1,Chorus,Verse 2,Chorus,Verse 3,Chorus,Verse 4,Chorus,Verse 5,Chorus
 
 [Verse 1]

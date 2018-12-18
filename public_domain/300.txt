@@ -2,7 +2,7 @@ Title:Rock of Ages
 Author:©
 Copyright:Public Domain
 CCLI:
-Hymnal:300
+Hymnal:Hymn 300
 
 [Verse 1]
 Rock of Ages, cleft for me,

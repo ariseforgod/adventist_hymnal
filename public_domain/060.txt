@@ -2,7 +2,7 @@ Title:Blessed Jesus at Thy Word
 Author:©
 Copyright:Public Domain
 CCLI:
-Hymnal:60
+Hymnal:Hymn 60
 PlayOrder:Verse 1,Verse 2,Verse 3
 
 [Verse 1]

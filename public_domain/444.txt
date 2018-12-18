@@ -2,7 +2,7 @@ Title:I'm a Pilgrim
 Author:©
 Copyright:Public Domain
 CCLI:
-Hymnal:444
+Hymnal:Hymn 444
 
 [Verse 1]
 I’m a pilgrim, and I’m a stranger;

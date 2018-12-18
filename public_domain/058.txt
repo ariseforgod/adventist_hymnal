@@ -2,7 +2,7 @@ Title:Hark, the Vesper Hymn Is Stealing
 Author:©
 Copyright:Public Domain
 CCLI:
-Hymnal:58
+Hymnal:Hymn 58
 PlayOrder:Verse 1,Verse 2
 
 [Verse 1]

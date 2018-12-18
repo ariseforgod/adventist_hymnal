@@ -2,7 +2,7 @@ Title:O Come, O Come, Immanuel
 Author:©
 Copyright:Public Domain
 CCLI:
-Hymnal:115
+Hymnal:Hymn 115
 PlayOrder:Verse 1,Chorus,Verse 2,Chorus,Verse 3,Chorus
 
 [Verse 1]

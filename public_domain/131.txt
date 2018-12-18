@@ -2,7 +2,7 @@ Title:Lo, How a Rose E'er Blooming
 Author:©
 Copyright:Public Domain
 CCLI:
-Hymnal:131
+Hymnal:Hymn 131
 PlayOrder:Verse 1,Verse 2
 
 [Verse 1]

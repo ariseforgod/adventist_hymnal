@@ -2,7 +2,7 @@ Title:When Morning Gilds the Skies
 Author:©
 Copyright:Public Domain
 CCLI:
-Hymnal:43
+Hymnal:Hymn 43
 PlayOrder:Verse 1,Verse 2,Verse 3,Verse 4,Verse 5,Verse 6
 
 [Verse 1]

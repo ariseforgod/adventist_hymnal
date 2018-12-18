@@ -2,7 +2,7 @@ Title:My Maker and My King
 Author:©
 Copyright:Public Domain
 CCLI:
-Hymnal:15
+Hymnal:Hymn 15
 PlayOrder:Verse 1,Verse 2,Verse 3,Verse 4
 
 [Verse 1]

@@ -2,7 +2,7 @@ Title:Joyful, Joyful, We Adore Thee
 Author:©
 Copyright:Public Domain
 CCLI:
-Hymnal:12
+Hymnal:Hymn 12
 PlayOrder:Verse 1,Verse 2,Verse 3
 
 [Verse 1]

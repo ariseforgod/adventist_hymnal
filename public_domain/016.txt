@@ -2,7 +2,7 @@ Title:All People That on Earth Do Well
 Author:©
 Copyright:Public Domain
 CCLI:
-Hymnal:16
+Hymnal:Hymn 16
 PlayOrder:Verse 1,Verse 2,Verse 3,Verse 4
 
 [Verse 1]

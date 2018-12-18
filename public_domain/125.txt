@@ -2,7 +2,7 @@ Title:Joy to the World
 Author:©
 Copyright:Public Domain
 CCLI:
-Hymnal:125
+Hymnal:Hymn 125
 PlayOrder:Verse 1,Verse 2,Verse 3,Verse 4
 
 [Verse 1]

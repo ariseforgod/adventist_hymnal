@@ -2,7 +2,7 @@ Title:Unto the Hills
 Author:©
 Copyright:Public Domain
 CCLI:
-Hymnal:102
+Hymnal:Hymn 102
 PlayOrder:Verse 1,Verse 2,Verse 3,Verse 4
 
 [Verse 1]

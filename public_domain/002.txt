@@ -2,7 +2,7 @@ Title:All Creatures of Our God and King
 Author:©
 Copyright:Public Domain
 CCLI:
-Hymnal:2
+Hymnal:Hymn 2
 PlayOrder:Verse 1,Chorus,Verse 2,Chorus,Verse 3,Chorus,Verse 4,Chorus
 
 [Verse 1]

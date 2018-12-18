@@ -2,7 +2,7 @@ Title:O Gladsome Light
 Author:©
 Copyright:Public Domain
 CCLI:
-Hymnal:54
+Hymnal:Hymn 54
 PlayOrder:Verse 1,Verse 2,Verse 3
 
 [Verse 1]

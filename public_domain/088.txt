@@ -2,7 +2,7 @@ Title:I Sing the Mighty Power of God
 Author:©
 Copyright:Public Domain
 CCLI:
-Hymnal:88
+Hymnal:Hymn 88
 PlayOrder:Verse 1,Verse 2,Verse 3
 
 [Verse 1]

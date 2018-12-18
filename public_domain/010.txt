@@ -2,7 +2,7 @@ Title:Come, Christians, Join to Sing
 Author:©
 Copyright:Public Domain
 CCLI:
-Hymnal:10
+Hymnal:Hymn 10
 PlayOrder:Verse 1,Verse 2,Verse 3
 
 [Verse 1]

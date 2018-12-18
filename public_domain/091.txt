@@ -2,7 +2,7 @@ Title:Ye Watchers and Ye Holy Ones
 Author:©
 Copyright:Public Domain
 CCLI:
-Hymnal:91
+Hymnal:Hymn 91
 PlayOrder:Verse 1,Chorus,Verse 2,Chorus,Verse 3,Chorus
 
 [Verse 1]

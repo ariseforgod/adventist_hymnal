@@ -2,7 +2,7 @@ Title:Of the Father's Love Begotten
 Author:©
 Copyright:Public Domain
 CCLI:
-Hymnal:116
+Hymnal:Hymn 116
 PlayOrder:Verse 1,Verse 2,Verse 3
 
 [Verse 1]

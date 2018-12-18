@@ -2,7 +2,7 @@ Title:My Shepherd Will Supply My Need
 Author:©
 Copyright:Public Domain
 CCLI:
-Hymnal:104
+Hymnal:Hymn 104
 PlayOrder:Verse 1,Verse 2,Verse 3
 
 [Verse 1]

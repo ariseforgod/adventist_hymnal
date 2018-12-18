@@ -2,7 +2,7 @@ Title:On Our Way Rejoicing
 Author:©
 Copyright:Public Domain
 CCLI:
-Hymnal:68
+Hymnal:Hymn 68
 PlayOrder:Verse 1,Chorus,Verse 2,Chorus
 
 [Verse 1]

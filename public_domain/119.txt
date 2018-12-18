@@ -2,7 +2,7 @@ Title:Angels From the Realms of Glory
 Author:©
 Copyright:Public Domain
 CCLI:
-Hymnal:119
+Hymnal:Hymn 119
 PlayOrder:Verse 1,Verse 2,Verse 3,Verse 4
 
 [Verse 1]

@@ -2,7 +2,7 @@ Title:Immortal, Invisible, God Only Wise
 Author:©
 Copyright:Public Domain
 CCLI:
-Hymnal:21
+Hymnal:Hymn 21
 PlayOrder:Verse 1,Verse 2,Verse 3,Verse 4
 
 [Verse 1]

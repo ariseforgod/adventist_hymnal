@@ -2,7 +2,7 @@ Title:Now That the Daylight Fills the Sky
 Author:©
 Copyright:Public Domain
 CCLI:
-Hymnal:42
+Hymnal:Hymn 42
 PlayOrder:Verse 1,Verse 2,Verse 3,Verse 4
 
 [Verse 1]

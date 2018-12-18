@@ -2,7 +2,7 @@ Title:It Came Upon the Midnight Clear
 Author:©
 Copyright:Public Domain
 CCLI:
-Hymnal:130
+Hymnal:Hymn 130
 PlayOrder:Verse 1,Verse 2,Verse 3
 
 [Verse 1]

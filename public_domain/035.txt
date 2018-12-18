@@ -2,7 +2,7 @@ Title:With Songs and Honours
 Author:©
 Copyright:Public Domain
 CCLI:
-Hymnal:35
+Hymnal:Hymn 35
 PlayOrder:Verse 1,Verse 2,Verse 3,Verse 4,Verse 5
 
 [Verse 1]

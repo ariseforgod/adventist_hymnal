@@ -2,7 +2,7 @@ Title:Praise Ye the Father
 Author:©
 Copyright:Public Domain
 CCLI:
-Hymnal:70
+Hymnal:Hymn 70
 PlayOrder:Verse 1,Verse 2,Verse 3
 
 [Verse 1]
