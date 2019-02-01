@@ -1,6 +1,6 @@
 Title:Go, Tell It On the Mountain
 Author:©
-Copyright:Projection Permitted Under License
+Copyright:Projection Permitted Under
 CCLI:7040771
 Hymnal:Hymn 121
 PlayOrder:Chorus,Verse 1,Chorus,Verse 2,Chorus,Verse 3,Chorus
