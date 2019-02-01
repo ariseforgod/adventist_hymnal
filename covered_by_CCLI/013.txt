@@ -3,12 +3,14 @@ Author:©
 Copyright:Projection Permitted Under License
 CCLI:3156829
 Hymnal:Hymn 13
+PlayOrder:Verse 1,Verse 2,Verse 3
 
 [Verse 1]
 New songs of celebration render
 To Him who has great wonders done.
 Love sits enthroned in ageless splendour:
 Come, and adore the mighty One.
+
 He has made known His great salvation
 Which all His friends with joy confess:
 He has revealed to every nation
@@ -19,6 +21,7 @@ Joyfully, heartily resounding,
 Let every instrument and voice
 Peal out the praise of grace abounding
 Calling the whole world to rejoice.
+
 Trumpets and organs, set in motion
 Such sounds as make the heavens ring;
 All things that live in earth and ocean,
@@ -29,6 +32,7 @@ Rivers and seas and torrents roaring,
 Honour the Lord with wild acclaim;
 Mountains and stones look up adoring,
 And find a voice to praise His name.
+
 Righteous, commanding, ever glorious,
 Praises be His that never cease:
 Just is our God, whose truth victorious,
