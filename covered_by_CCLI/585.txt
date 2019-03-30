@@ -3,6 +3,7 @@ Author:©
 Copyright:Projection Permitted Under
 CCLI:7009284
 Hymnal:Hymn 585
+PlayOrder:Verse 1,Verse 2,Verse 3,Verse 4
 
 [Verse 1]
 When Christ was lifted from the earth His arms stretched out above

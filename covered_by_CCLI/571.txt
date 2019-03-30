@@ -3,6 +3,7 @@ Author:©
 Copyright:Projection Permitted Under
 CCLI:287413
 Hymnal:Hymn 571
+PlayOrder:Verse 1,Verse 2,Verse 3
 
 [Verse 1]
 What does the Lord require for praise and offering?

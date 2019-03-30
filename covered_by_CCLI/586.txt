@@ -3,6 +3,7 @@ Author:©
 Copyright:Projection Permitted Under
 CCLI:1632861
 Hymnal:Hymn 586
+PlayOrder:Verse 1,Verse 2
 
 [Verse 1]
 What joy it is to worship here,

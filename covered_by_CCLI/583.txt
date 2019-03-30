@@ -3,6 +3,7 @@ Author:©
 Copyright:Projection Permitted Under
 CCLI:684889
 Hymnal:Hymn 583
+PlayOrder:Verse 1,Verse 2,Verse 3
 
 [Verse 1]
 You that know the Lord is gracious,

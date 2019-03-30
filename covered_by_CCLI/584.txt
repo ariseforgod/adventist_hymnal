@@ -3,6 +3,7 @@ Author:©
 Copyright:Projection Permitted Under
 CCLI:133165
 Hymnal:Hymn 584
+PlayOrder:Verse 1,Verse 2,Verse 3,Verse 4,Verse 5,Verse 6,Verse 7
 
 [Verse 1]
 There’s a Spirit in the air, telling Christians everywhere
