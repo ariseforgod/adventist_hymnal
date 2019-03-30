@@ -3,6 +3,7 @@ Author:©
 Copyright:Public Domain
 CCLI:
 Hymnal:Hymn 179
+PlayOrder:Verse 1,Verse 2,Verse 3,Verse 4,Verse 5
 
 [Verse 1]
 The wonders of redeeming love
@@ -33,5 +34,3 @@ His love will not be satisfied,
 Till He in glory sees
 The faithful ones for whom He died
 From sin forever free.
-Posted by HYMNS at 05:34 [Verse 0] comments
-Labels: The Wonders of Redeeming Love

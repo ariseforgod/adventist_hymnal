@@ -3,6 +3,7 @@ Author:©
 Copyright:Public Domain
 CCLI:
 Hymnal:Hymn 178
+PlayOrder:Verse 1,Chorus,Verse 2,Chorus,Verse 3,Chorus
 
 [Verse 1]
 Once our blessed Christ of beauty
@@ -13,6 +14,7 @@ He has rent the veil in two.
 [Chorus]
 O behold the Man of Sorrows!
 O behold Him in plain view!
+
 Lo! He is the mighty Conqueror
 Since her rent the veil in two;
 Lo! He is the mighty Conqueror

@@ -3,6 +3,7 @@ Author:©
 Copyright:Public Domain
 CCLI:
 Hymnal:Hymn 169
+PlayOrder:Verse 1,Verse 2,Verse 3
 
 [Verse 1]
 Come, you faithful, raise the strain

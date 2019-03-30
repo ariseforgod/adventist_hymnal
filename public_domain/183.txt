@@ -3,6 +3,7 @@ Author:©
 Copyright:Public Domain
 CCLI:
 Hymnal:Hymn 183
+PlayOrder:Verse 1,Chorus,Verse 2,Chorus,Verse 3,Chorus
 
 [Verse 1]
 I Will sing of Jesus love,

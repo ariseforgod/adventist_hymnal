@@ -3,11 +3,13 @@ Author:©
 Copyright:Public Domain
 CCLI:
 Hymnal:Hymn 198
+PlayOrder:Verse 1,Chorus,Verse 2,Chorus,Verse 3,Chorus,Verse 4,Chorus
 
 [Verse 1]
 And can it be that I should gain
 an interest in the Saviour’s blood!
 Died he for me? who caused his pain!
+
 For me? who him to death pursued?
 Amazing love! How can it be
 that thou, my God, shouldst die for me?
@@ -20,6 +22,7 @@ that thou, my God, shouldst die for me?
 He left his Father’s throne above
 so free, so infinite his grace!;
 emptied himself of all but love,
+
 and bled for Adam’s helpless race.
 ’Tis mercy all, immense and free,
 for O my God, it found out me!
@@ -28,6 +31,7 @@ for O my God, it found out me!
 Long my imprisoned sprit lay,
 fast bound in sin and nature’s night;
 thine eye diffused a quickening ray;
+
 I woke, the dungeon flamed with light;
 my chains fell off, my heart was free,
 I rose, went forth, and followed thee.
@@ -36,6 +40,7 @@ I rose, went forth, and followed thee.
 No condemnation now I dread;
 Jesus, and all in him, is mine;
 alive in him, my living Head,
+
 and clothed in righteousness divine,
 bold I approach th’ eternal throne,
 and claim the crown, through Christ my own.
