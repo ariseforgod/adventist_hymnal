@@ -8,7 +8,7 @@ PlayOrder:Verse 1,Verse 2,Verse 3
 [Verse 1]
 Softly now the light of day
 Fades upon out sight away:
-Free from care, from labor free,
+Free from care, from labour free,
 Lord, we would commune with Thee.
 
 [Verse 2]
