@@ -3,12 +3,14 @@ Author:©
 Copyright:Public Domain
 CCLI:
 Hymnal:Hymn 165
+PlayOrder:Verse 1,Verse 2,Verse 3,Verse 4
 
 [Verse 1]
 Look, you saints, the sight is glorious,
 See the Man of sorrows now;
 From the fight returned victorious,
 Every knee to Him shall bow.
+
 Crown Him! Crown Him! Crown Him!
 Crown Him! Crown Him! Crown Him!
 Crowns become the victor’s brow.
@@ -19,6 +21,7 @@ Crown the Saviour! angels crown Him!
 Rich the trophies Jesus brings;
 On the seat of power enthrone Him
 While the vault of heaven rings.
+
 Crown Him! Crown Him! Crown Him!
 Crown Him! Crown Him! Crown Him!
 Crown the Saviour, King of Kings.
@@ -29,6 +32,7 @@ Sinners in derision crowned Him,
 Mocking thus the Saviour’s claim;
 Saints and angels crowd around Him,
 Own His title, praise His name.
+
 Crown Him! Crown Him! Crown Him!
 Crown Him! Crown Him! Crown Him!
 Spread abroad the victor’s fame!
@@ -39,6 +43,7 @@ Hark! those bursts of acclamation!
 Hark! those loud triumphant chords!
 Jesus takes the highest station;
 Oh, what joy the sight affords!
+
 Crown Him! Crown Him! Crown Him!
 Crown Him! Crown Him! Crown Him!
 King of kings and Lord of lords!

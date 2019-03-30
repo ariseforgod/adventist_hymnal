@@ -3,6 +3,7 @@ Author:©
 Copyright:Public Domain
 CCLI:
 Hymnal:Hymn 153
+PlayOrder:Verse 1,Verse 2,Verse 3
 
 [Verse 1]
 Prince of Peace, control my will,

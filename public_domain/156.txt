@@ -3,12 +3,14 @@ Author:©
 Copyright:Public Domain
 CCLI:
 Hymnal:Hymn 156
+PlayOrder:Verse 1,Verse 2,Verse 3
 
 [Verse 1]
 O sacred Head, now wounded,
 with grief and shame weighed down,
 now scornfully surrounded
 with thorns, thine only crown:
+
 how pale thou art with anguish,
 with sore abuse and scorn!
 How does that visage languish
@@ -19,6 +21,7 @@ What thou, my Lord, has suffered
 was all for sinners’ gain;
 mine, mine was the transgression,
 but thine the deadly pain.
+
 Lo, here I fall, my Saviour!
 ‘Tis I deserve thy place;
 look on me with thy favour,
@@ -29,6 +32,7 @@ What language shall I borrow
 to thank thee, dearest friend,
 for this thy dying sorrow,
 thy pity without end?
+
 O make me thine forever;
 and should I fainting be,
 Lord, let me never, never
