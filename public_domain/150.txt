@@ -3,6 +3,7 @@ Author:©
 Copyright:Public Domain
 CCLI:
 Hymnal:Hymn 150
+PlayOrder:Verse 1,Chorus,Verse 2,Chorus,Verse 3,Chorus,Verse 4,Chorus,Verse 5,Chorus,Verse 6,Chorus,Verse 7,Chorus
 
 [Verse 1]
 Who is He in yonder stall,

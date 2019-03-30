@@ -3,6 +3,7 @@ Author:©
 Copyright:Public Domain
 CCLI:
 Hymnal:Hymn 138
+PlayOrder:Verse 1,Chorus,Verse 2,Chorus
 
 [Verse 1]
 There’s a star in the east on Christmas morn.
