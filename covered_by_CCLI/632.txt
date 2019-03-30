@@ -8,7 +8,7 @@ PlayOrder:Verse 1,Chorus,Verse 2,Chorus
 [Verse 1]
 My heart can sing when I pause to remember,
 A heartache here is but a stepping stone.
-Along a trail, that‘s winding always upward,
+Along a trail, that’s winding always upward,
 This troubled world, is not my final home.
 
 [Chorus]
