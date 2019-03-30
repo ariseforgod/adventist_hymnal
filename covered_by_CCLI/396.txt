@@ -3,6 +3,7 @@ Author:©
 Copyright:Projection Permitted Under
 CCLI:2419103
 Hymnal:Hymn 396
+PlayOrder:Verse 1,Verse 2,Verse 3,Verse 4,Verse 5
 
 [Verse 1]
 Lord God, Your love has called us here,

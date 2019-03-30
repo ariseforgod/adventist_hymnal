@@ -3,6 +3,7 @@ Author:©
 Copyright:Projection Permitted Under
 CCLI:599558
 Hymnal:Hymn 353
+PlayOrder:Verse 1,Verse 2,Verse 3,Verse 4
 
 [Verse 1]
 Father, help Your people in this world to build

@@ -3,6 +3,7 @@ Author:©
 Copyright:Projection Permitted Under
 CCLI:15946
 Hymnal:Hymn 493
+PlayOrder:Verse 1,Chorus,Verse 2,Chorus,Verse 3,Chorus
 
 [Verse 1]
 Like the woman at the well I was seeking

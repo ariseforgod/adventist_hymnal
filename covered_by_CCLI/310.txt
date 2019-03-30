@@ -3,6 +3,7 @@ Author:©
 Copyright:Projection Permitted Under
 CCLI:541269
 Hymnal:Hymn 310
+PlayOrder:Verse 1,Verse 2,Verse 3
 
 [Verse 1]
 I would draw nearer to Jesus, In His sweet presence abide,

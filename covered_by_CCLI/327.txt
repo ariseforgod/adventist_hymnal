@@ -3,6 +3,7 @@ Author:©
 Copyright:Projection Permitted Under
 CCLI:16653
 Hymnal:Hymn 327
+PlayOrder:Verse 1,Chorus,Verse 2,Chorus,Verse 3,Chorus
 
 [Verse 1]
 I’d rather have Jesus than silver or gold;

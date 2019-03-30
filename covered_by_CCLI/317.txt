@@ -3,6 +3,7 @@ Author:©
 Copyright:Projection Permitted Under
 CCLI:5176
 Hymnal:Hymn 317
+PlayOrder:Verse 1,Chorus,Verse 2,Chorus,Verse 3,Chorus,Verse 4,Chorus
 
 [Verse 1]
 King of my life, I crown Thee now,

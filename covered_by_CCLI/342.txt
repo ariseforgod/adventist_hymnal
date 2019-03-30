@@ -3,6 +3,7 @@ Author:©
 Copyright:Projection Permitted Under
 CCLI:1335515
 Hymnal:Hymn 342
+PlayOrder:Verse 1,Verse 2,Verse 3,Verse 4,Verse 5
 
 [Verse 1]
 Is this a day of new beginnings,

@@ -3,6 +3,7 @@ Author:©
 Copyright:Projection Permitted Under
 CCLI:335011
 Hymnal:Hymn 413
+PlayOrder:Verse 1,Verse 2,Verse 3
 
 [Verse 1]
 God has spoken by His prophets,

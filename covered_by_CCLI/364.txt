@@ -3,6 +3,7 @@ Author:©
 Copyright:Projection Permitted Under
 CCLI:5785504
 Hymnal:Hymn 364
+PlayOrder:Verse 1,Verse 2,Verse 3
 
 [Verse 1]
 O Jesus Christ, to You may hymns be rising

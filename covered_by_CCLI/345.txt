@@ -3,6 +3,7 @@ Author:©
 Copyright:Projection Permitted Under
 CCLI:11733351
 Hymnal:Hymn 345
+PlayOrder:Verse 1,Verse 2,Verse 3
 
 [Verse 1]
 Christ is the world’s true light,

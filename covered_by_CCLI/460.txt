@@ -3,6 +3,7 @@ Author:©
 Copyright:Projection Permitted Under
 CCLI:166448
 Hymnal:Hymn 460
+PlayOrder:Verse 1,Verse 2,Verse 3
 
 [Verse 1]
 As water to the thirsty,

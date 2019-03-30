@@ -3,21 +3,37 @@ Author:©
 Copyright:Projection Permitted Under
 CCLI:16880
 Hymnal:Hymn 526
+PlayOrder:Verse 1,Chorus,Verse 2,Chorus
 
 [Verse 1]
-God sent His Son, they called Him Jesus,
-He came to love, heal, and forgive;
-He lived and died to buy my pardon,
-An empty grave is there to prove my Saviour lives.
+God sent His Son,
+they called Him Jesus,
+He came to love,
+heal, and forgive;
+
+He lived and died
+to buy my pardon,
+An empty grave is there to prove
+my Saviour lives.
 
 [Chorus]
-Because He lives I can face tomorrow,
-Because He lives all fear is gone;
-Because I know He holds the future.
-And life is worth the living just because He lives.
+Because He lives
+I can face tomorrow,
+Because He lives
+all fear is gone;
+
+Because I know
+He holds the future.
+And life is worth the living
+just because He lives.
 
 [Verse 2]
-How sweet to hold a newborn baby,
-And feel the pride, and joy He gives;
-But greater still the calm assurance,
-This child can face uncertain days because He lives.
+How sweet to hold
+a newborn baby,
+And feel the pride,
+and joy He gives;
+
+But greater still
+the calm assurance,
+This child can face uncertain days
+because He lives.

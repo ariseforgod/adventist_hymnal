@@ -3,6 +3,7 @@ Author:©
 Copyright:Projection Permitted Under
 CCLI:536487
 Hymnal:Hymn 492
+PlayOrder:Verse 1,Chorus,Verse 2,Chorus,Verse 3,Chorus,Verse 4,Chorus
 
 [Verse 1]
 Teach, me, Father, what to say;

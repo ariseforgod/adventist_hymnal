@@ -3,6 +3,7 @@ Author:©
 Copyright:Projection Permitted Under
 CCLI:3250347
 Hymnal:Hymn 536
+PlayOrder:Verse 1,Verse 2,Verse 3
 
 [Verse 1]
 God, who stretched the spangled heavens
