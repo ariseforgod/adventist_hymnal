@@ -1,6 +1,6 @@
 Title:He Lives
 Author:©
-Copyright:Projection Permitted Under License
+Copyright:Projection Permitted Under
 CCLI:17597
 Hymnal:Hymn 251
 PlayOrder:Verse 1,Chorus,Verse 2,Chorus,Verse 3,Chorus

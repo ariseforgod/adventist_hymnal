@@ -1,6 +1,6 @@
 Title:The Old Rugged Cross
 Author:©
-Copyright:Projection Permitted Under License
+Copyright:Projection Permitted Under
 CCLI:19722
 Hymnal:Hymn 159
 PlayOrder:Verse 1,Chorus,Verse 2,Chorus,Verse 3,Chorus
@@ -9,7 +9,7 @@ PlayOrder:Verse 1,Chorus,Verse 2,Chorus,Verse 3,Chorus
 On a hill far away
 stood an old rugged cross,
 the emblem of suffering and shame;
-and I love that old cross 
+and I love that old cross
 where the dearest and best
 for a world of lost sinners was slain.
 
