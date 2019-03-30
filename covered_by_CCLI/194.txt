@@ -3,6 +3,7 @@ Author:©
 Copyright:Projection Permitted Under License
 CCLI:1052032
 Hymnal:Hymn 194
+PlayOrder:Verse 1,Verse 2,Verse 3
 
 [Verse 1]
 Sing we of the modern city,

@@ -3,6 +3,7 @@ Author:©
 Copyright:Projection Permitted Under License
 CCLI:18204
 Hymnal:Hymn 262
+PlayOrder:Verse 1,Verse 2,Chorus
 
 [Verse 1]
 There’s a sweet, sweet spirit in this place,

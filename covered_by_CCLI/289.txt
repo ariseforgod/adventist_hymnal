@@ -3,6 +3,7 @@ Author:©
 Copyright:Projection Permitted Under License
 CCLI:16206
 Hymnal:Hymn 289
+PlayOrder:Verse 1,Chorus,Verse 2,Chorus
 
 [Verse 1]
 The Saviour is waiting to enter your heart

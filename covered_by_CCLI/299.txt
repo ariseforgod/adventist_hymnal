@@ -3,6 +3,7 @@ Author:©
 Copyright:Projection Permitted Under License
 CCLI:5982493
 Hymnal:Hymn 299
+PlayOrder:Verse 1,Verse 2,Verse 3,Verse 4
 
 [Verse 1]
 “Forgive our sins as we forgive,”

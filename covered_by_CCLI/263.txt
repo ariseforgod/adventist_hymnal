@@ -3,6 +3,7 @@ Author:©
 Copyright:Projection Permitted Under License
 CCLI:7036094
 Hymnal:Hymn 263
+PlayOrder:Verse 1,Verse 2,Verse 3,Verse 4,Verse 5
 
 [Verse 1]
 Fire of God, Thou sacred flame,

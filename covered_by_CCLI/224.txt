@@ -3,6 +3,7 @@ Author:©
 Copyright:Projection Permitted Under License
 CCLI:689279
 Hymnal:Hymn 224
+PlayOrder:Verse 1,Verse 2,Verse 3,Verse 4
 
 [Verse 1]
 Seek ye first the kingdom,

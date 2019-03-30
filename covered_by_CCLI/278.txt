@@ -3,6 +3,7 @@ Author:©
 Copyright:Projection Permitted Under License
 CCLI:3248081
 Hymnal:Hymn 278
+PlayOrder:Verse 1,Verse 2,Verse 3
 
 [Verse 1]
 Lord Jesus, once You spoke to men
