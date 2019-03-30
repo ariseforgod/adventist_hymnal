@@ -1,4 +1,5 @@
-# adventist_hymnal
-Adventist Hymnal Text, Import Files & Utilities
+# adventist_hymnal_mediashout
 
-This project aims to make the Seventh-day Adventist Hymnal’s text freely available for download. It will eventually also contain other formats that might be useful for churches to load into presentation programs such as MediaShout, etc.
+Adventist Hymnal Text in MediaShout format for import on Proclaim presentations software.
+The spelling of the text is Australian English.
+The project has been divided in three folders corresponding with Public Domain, Copyrighted by CCLI, and Projection not permitted lyrics. See https://corporate.adventistchurch.com/music-copyright/ for more information.
