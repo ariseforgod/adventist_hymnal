@@ -3,6 +3,7 @@ Author:©
 Copyright:Projection Permitted Under
 CCLI:3338757
 Hymnal:Hymn 657
+PlayOrder:Verse 1,Verse 2,Verse 3,Verse 4
 
 [Verse 1]
 O God from whom mankind derives its name;

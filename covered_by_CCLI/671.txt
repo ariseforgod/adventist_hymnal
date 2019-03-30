@@ -3,6 +3,7 @@ Author:©
 Copyright:Projection Permitted Under
 CCLI:140024
 Hymnal:Hymn 671
+PlayOrder:Verse 1
 
 [Verse 1]
 Now, dear Lord, as we pray,

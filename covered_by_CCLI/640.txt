@@ -3,6 +3,7 @@ Author:©
 Copyright:Projection Permitted Under
 CCLI:7035820
 Hymnal:Hymn 640
+PlayOrder:Verse 1,Verse 2,Verse 3
 
 [Verse 1]
 For beauty of meadows, for grandeur of trees,

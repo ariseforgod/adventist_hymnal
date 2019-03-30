@@ -3,12 +3,14 @@ Author:©
 Copyright:Projection Permitted Under
 CCLI:23488
 Hymnal:Hymn 672
+PlayOrder:Verse 1
 
 [Verse 1]
 Spirit of the living God,
 Fall afresh on me!
 Spirit of the living God,
 Fall afresh on me!
+
 Break me, melt me, mould me, fill me!
 Spirit of the living God,
 Fall afresh on me!
