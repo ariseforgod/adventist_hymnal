@@ -6,7 +6,6 @@ Encoding.default_internal = Encoding::UTF_8
 i = 1
 
 @files = Dir.glob('./raw_text/*.txt').sort
-
 @outputFolder = "./ProPresenter/";
 
 @files.each do |fileFullPath|
@@ -23,8 +22,18 @@ i = 1
 			lineNum = 0
 			maxChars = 0
 		  file.each_line do |line|
-				if lineNum == 0 || lineNum == 1 || lineNum == 2
-					# ignore
+				# we need to look at first line for title but ignore second and third lines
+				if lineNum.between?(0,2)
+					if lineNum == 0
+						# write out the hymn title and number on a slide
+						tmp = line.split(' – ')
+						fileToWrite.puts "Intro"		# this gets recognized by ProPresenter as a group, separating this slide from first verse
+						fileToWrite.puts tmp[1]			# the hymn title
+						fileToWrite.puts "Hymn #" + tmp[0].to_i.to_s
+						fileToWrite.puts ""					# new line separates slide
+					else
+						# ignore
+					end
 				else
 
 					# if it's a verse it'll start with a number
