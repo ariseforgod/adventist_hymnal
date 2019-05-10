@@ -3,6 +3,7 @@ Author:©
 Copyright:Public Domain
 CCLI:
 Hymnal:Hymn 470
+PlayOrder:Verse 1,Chorus,Verse 2,Chorus,Verse 3,Chorus,Verse 4,Chorus
 
 [Verse 1]
 There’s sunshine in my soul today,
@@ -29,7 +30,7 @@ The dove of peace sings in my heart,
 The flowers of grace appear.
 
 [Verse 4]
-Theres gladness in my soul today,
+There's gladness in my soul today,
 And hope, and praise, and love,
 For blessings which He gives me now,
 For joys “laid up” above.
