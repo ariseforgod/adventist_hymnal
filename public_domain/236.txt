@@ -3,6 +3,7 @@ Author:©
 Copyright:Public Domain
 CCLI:
 Hymnal:Hymn 236
+PlayOrder:Verse 1,Verse 2,Verse 3,Verse 4
 
 [Verse 1]
 I love Thee, I love Thee, I love Thee, my Lord;

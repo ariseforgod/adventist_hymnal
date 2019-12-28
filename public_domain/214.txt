@@ -3,6 +3,7 @@ Author:©
 Copyright:Public Domain
 CCLI:
 Hymnal:Hymn 214
+PlayOrder:Verse 1,Verse 2
 
 [Verse 1]
 We have this hope that burns within our heart,

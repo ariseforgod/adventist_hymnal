@@ -3,6 +3,7 @@ Author:©
 Copyright:Public Domain
 CCLI:
 Hymnal:Hymn 204
+PlayOrder:Verse 1,Verse 2
 
 [Verse 1]
 Come, thou long expected Jesus!

@@ -2,7 +2,8 @@ Title:Wake, Awake for the Night Is Flying
 Author:©
 Copyright:Public Domain
 CCLI:
-Hymnal:Hymn 210
+Hymnal:Hymn
+PlayOrder:Verse 1,Verse 2,Verse 3
 
 [Verse 1]
 Wake, awake, for night is flying,
